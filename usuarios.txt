@@ -1,0 +1,10 @@
+{
+    "_id" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "nombre" : "administrador del Sistema",
+    "email" : "admin@admin",
+    "dia" : 20,
+    "password" : "$2a$10$30w1yydzLW1/0ERH5qzvSubBgvV755cqvXvWpL0PhaWzCkDS4EnLu",
+    "role" : "USER_ROLE",
+    "__v" : 0,
+    "img" : "63c01c3a46ba4bc90575e523-324.png"
+}

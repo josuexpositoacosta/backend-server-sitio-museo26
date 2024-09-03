@@ -1,0 +1,4 @@
+{
+    "URL_FRONTEND": "http: //museo.scu.desoft.cu:8080",
+    "URL_BACKEND": "http://localhost:81"
+}

@@ -1,0 +1,3281 @@
+
+{
+    "_id" : ObjectId("63c60c9a19709846c3047bcb"),
+    "__v" : 0,
+    "nombreeventopro" : "\"Mis compañeros, además, no están ni olvidados ni muertos, viven hoy más que nunca y sus matadores han de ver aterrorizados como surge de sus cadáveres heroicos el espectro victorioso de sus ideas\"",
+    "img" : "63c60c9a19709846c3047bcb-56.jpg",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "fecha" : ISODate("2023-03-01T17:14:00.000Z"),
+    "role" : "SLIDER",
+    "detalle" : "slider",
+    "informacion" : "slider"
+}
+
+
+
+{
+    "_id" : ObjectId("63d4487fec8ec6899d19a465"),
+    "nombreeventopro" : "\"En cuanto a mí, sé que la cárcel será dura como no lo ha sido nunca para nadie, preñada de amenazas, de ruin y cobarde ensañamiento, pero no la temo, como no temo la furia del tirano miserable que arrancó la vida de setenta hermanos míos\" Condéneme, no importa. La historia me absolverá\"",
+    "informacion" : "",
+    "__v" : 0,
+    "detalle" : "",
+    "fecha" : ISODate("2023-04-02T02:45:00.000Z"),
+    "img" : "63d4487fec8ec6899d19a465-597.jpg",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "role" : "SLIDER"
+}
+
+
+{
+    "_id" : ObjectId("63d44c20ec8ec6899d19a479"),
+    "nombreeventopro" : "Expo del fotorreportero Roberto Chile",
+    "__v" : 0,
+    "img" : "63d44c20ec8ec6899d19a479-726.jpg",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "detalle" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur lectus lacus, rutrum sit amet placerat et, bibendum nec mauris. Duis molestie, purus eget placerat viverra, nisi odio gravida sapien, congue tincidunt nisl ante nec tellus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sagittis, massa fringilla consequat blandit, mauris ligula porta nisi, non tristique enim sapien vel nisl. Suspendisse vestibulum lobortis dapibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent nec tempus nibh. Donec mollis commodo metus et fringilla. Ut ac elit non mi pharetra dictum nec quis nibh. Pellentesque ut fringilla elit. Aliquam non ipsum id leo eleifend sagittis id a lorem. Sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam massa mauris, viverra et rhoncus a, feugiat ut sem. Quisque ultricies diam tempus quam molestie vitae sodales dolor sagittis. Praesent commodo sodales purus. Maecenas scelerisque ligula vitae leo adipiscing a facilisis nisl ullamcorper. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.",
+    "informacion" : "Expo del fotorreportero Roberto Chile",
+    "fecha" : ISODate("2023-04-11T14:36:00.000Z"),
+    "role" : "ACTIVIDAD"
+}
+
+
+
+{
+    "_id" : ObjectId("63d44cc1ec8ec6899d19a48d"),
+    "nombreeventopro" : "Título del evento",
+    "informacion" : "Breve descripción de la noticia máximo 60 caracteres",
+    "__v" : 0,
+    "detalle" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur lectus lacus, rutrum sit amet placerat et, bibendum nec mauris. Duis molestie, purus eget placerat viverra, nisi odio gravida sapien, congue tincidunt nisl ante nec tellus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sagittis, massa fringilla consequat blandit, mauris ligula porta nisi, non tristique enim sapien vel nisl. Suspendisse vestibulum lobortis dapibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent nec tempus nibh. Donec mollis commodo metus et fringilla. Ut ac elit non mi pharetra dictum nec quis nibh. Pellentesque ut fringilla elit. Aliquam non ipsum id leo eleifend sagittis id a lorem. Sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam massa mauris, viverra et rhoncus a, feugiat ut sem. Quisque ultricies diam tempus quam molestie vitae sodales dolor sagittis. Praesent commodo sodales purus. Maecenas scelerisque ligula vitae leo adipiscing a facilisis nisl ullamcorper. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.",
+    "fecha" : ISODate("2022-11-04T17:08:00.000Z"),
+    "img" : "63d44cc1ec8ec6899d19a48d-47.jpg",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "role" : "ACTIVIDAD"
+}
+
+
+
+{
+    "_id" : ObjectId("63d44e33ec8ec6899d19a49b"),
+    "nombreeventopro" : "Título del evento",
+    "informacion" : "Breve descripción de la noticia máximo 60 caracteres",
+    "__v" : 0,
+    "img" : "63d44e33ec8ec6899d19a49b-560.jpg",
+    "detalle" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur lectus lacus, rutrum sit amet placerat et, bibendum nec mauris. Duis molestie, purus eget placerat viverra, nisi odio gravida sapien, congue tincidunt nisl ante nec tellus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sagittis, massa fringilla consequat blandit, mauris ligula porta nisi, non tristique enim sapien vel nisl. Suspendisse vestibulum lobortis dapibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent nec tempus nibh. Donec mollis commodo metus et fringilla. Ut ac elit non mi pharetra dictum nec quis nibh. Pellentesque ut fringilla elit. Aliquam non ipsum id leo eleifend sagittis id a lorem. Sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam massa mauris, viverra et rhoncus a, feugiat ut sem. Quisque ultricies diam tempus quam molestie vitae sodales dolor sagittis. Praesent commodo sodales purus. Maecenas scelerisque ligula vitae leo adipiscing a facilisis nisl ullamcorper. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.",
+    "fecha" : ISODate("2022-12-02T18:09:00.000Z"),
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "role" : "ACTIVIDAD"
+}
+
+
+
+{
+    "_id" : ObjectId("63d46c6ebdfcc2eda4adc067"),
+    "informacion" : "Una descripción de la sala ......Lorem ipsum dolor sit amet, consectetur adipiscing elit. In nec egestas felis, ut posuere est. Etiam eleifend, lacus in pretium placerat, augue nulla pretium ex, non accumsan est sapien et arcu. In facilisis euismod justo, id ultricies purus efficitur eu. Nullam a commodo turpis. Nam vitae neque tellus. Sed luctus, ante tincidunt placerat vestibulum, mi dui placerat sapien, consectetur posuere nisl sem non odio. Proin eget metus lobortis, tristique diam bibendum, aliquet nisi. Aliquam sed finibus quam, sed lobortis justo. In cursus magna id scelerisque accumsan. Cras eleifend accumsan ligula, in elementum libero bibendum ut. Maecenas tempor faucibus vulputate.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "Quisque purus nunc, tempus et dolor at, sagittis commodo elit. Cras venenatis odio eros, id venenatis nulla rhoncus non. Ut id risus iaculis, laoreet tortor ac, venenatis purus. Sed gravida auctor ex, tincidunt accumsan nisi tristique eget. In bibendum maximus nisl a varius. Proin imperdiet nunc vel augue vehicula finibus. Sed blandit congue aliquet. In dignissim odio vel nisl mollis molestie. Vestibulum malesuada nec turpis quis egestas. Vestibulum quam nisi, volutpat non enim eu, fermentum dignissim nisi. Donec eu maximus augue, sit amet vestibulum libero. Pellentesque imperdiet nisl a imperdiet iaculis. Donec quis lectus orci. Duis vitae cursus tellus, id volutpat lacus. Nulla mollis quam non diam interdum, non varius ex accumsan. Donec tempor mauris ante, in consequat massa sollicitudin eget.",
+    "img" : "63d46c6ebdfcc2eda4adc067-844.jpg",
+    "nombreeventopro" : "Ametralladora pesada Browning BGM M-2HB"
+}
+
+
+
+{
+    "_id" : ObjectId("63d5e2925f77bbe737261000"),
+    "nombreeventopro" : "Título de la Sala 8: La Represión Batistiana.",
+    "informacion" : "Título de la Exposición: La barbarie tras los muros del Moncada",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "La fortaleza militar fue sede de atroces actos de torturas y asesinatos durante la dictadura de Fulgencio Batista. Se recrea la represión en el antiguo Regimiento Militar de la Guardia Rural, no 1 Maceo. A través de cuatro espacios expositivos, se muestran imágenes de cuerpos mutilados o fuertemente golpeados por los esbirros de la tiranía, quienes apelaron a múltiples técnicas e instrumentos para castigar a los revolucionarios y hacerlos claudicar. La tortura: Espacio que expone instrumentos como vergajos, cables, machetes, porras, tubos, así como, imágenes de víctimas de crueles prácticas ensayadas en este sitio, se puede conocer el escenario dantesco surgido con la dictadura batistiana. La celda: Forma parte del panorama sombrío del Moncada, a través de un código QR se accede a testimonios interactivos de luchadores clandestinos que sufrieron prisión como: Frank País García, Casto Amador, Juan Francisco Bosh Cuqui y Otto Parellada Echeverría y de otros combatientes torturados durante la década de 1950. Jefatura del SIR: Se recrea a la manera de la época, la oficina de la Jefatura del Servicio de Inteligencia Regimental (SIR) donde se interrogaba a los jóvenes revolucionarios. Se exponen objetos representativos del lugar, a partir de los testimonios de combatientes que fueron torturados, como es el caso de Manuel Jacas Tornés. Sala de espera: Aunque resultó ser sitio de torturas sicológicas, las fotos de las madres en la protesta por el asesinato de William Soler, es muestra de la reacción del pueblo ante la violencia desatada por el régimen batistiano. El Cuartel Moncada se convirtió en un taller de tortura y de muerte, y unos hombres indignos convirtieron el uniforme militar, en delantales de carniceros. Fidel Castro Ruz",
+    "img" : "63d5e2925f77bbe737261000-753.jpg",
+    "role" : "SALA"
+}
+
+
+
+{
+    "_id" : ObjectId("63d5e5a45f77bbe737261020"),
+    "nombreeventopro" : "Título de la Sala: Doctrinas del Maestro.",
+    "informacion" : "Título de la Exposición: José Martí en la Generación del Centenario.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "Nadie debe preocuparse de que lo acusen de ser autor intelectual de la revolución porque el único autor intelectual del asalto al cuartel Moncada es José Martí, el Apóstol de nuestra independencia. Fidel Castro Ruz, 21 de septiembre de 1953 en el juicio del Moncada José Julián Martí Pérez (1853-1895) Héroe nacional de Cuba. Político, escritor, poeta, periodista, orador. Sufrió prisión y destierro a los diecisiete años de edad por sus ideas independentista. Vivió en España, México, Guatemala y Venezuela en el año 1881 se estableció definitivamente en los Estados Unidos donde preparó lo que él llamó la guerra necesaria para lograr la independencia de Cuba, proceso que lideró por su gran talento. Se exhibe un chaleco original utilizado por José Martí, el que dejó olvidado en una de sus visitas a Haití en 1892, durante los preparativos de la Guerra de Independencia de 1895, la prenda quedó bajo el cuidado de la familia de Tranquilino Callejas, cuyos descendientes la trajeron a Cuba y con posterioridad decidieron donarla, se expone en el museo desde 1998. El 11 de abril de 1895 desembarca en Cuba para incorporarse a la lucha armada. Su pensamiento es fuente nutricia del patriotismo, el latinoamericanismo, el antimperialismo y el antirracismo que forman parte de la cultura política del pueblo cubano. El 19 de mayo de 1895 cae en combate. El 26 de julio del 1953, un grupo de jóvenes encabezados por Fidel Castro, se inspiraron en las ideas independentistas de José Martí y atacaron el cuartel Moncada, después de los sucesos, el joven abogado Fidel Castro fue sometido a un proceso judicial iniciado el 21 de septiembre del 1953, donde destacó el compromiso con la historia de Cuba, sus héroes y mártires y en especial destacó al héroe nacional a quien declaró de forma pública en el alegato de autodefensa La Historia me Absolverá, como el autor intelectual de la acción al expresar: Parecía que el Apóstol iba a morir en el año de su centenario. Esta frase aparece en la parte inferior del relieve en bronce realizado por el escultor, pintor y dibujante santiaguero Alberto Lescay Merencio en el año 1990, en los talleres de la Fundación Caguayo. La imagen de José Martí, se convierte en el anfitrión del recorrido por el museo, para los visitantes interesados en conocer la historia que atesora el antiguo Cuartel Moncada .Un código QR desde la obra de arte, permite acceder a otras informaciones relevantes sobre el artista y de los momentos históricos de la institución donde el relieve fue captado por el lente de importantes fotógrafos.",
+    "fecha" : null,
+    "img" : "63d5e5a45f77bbe737261020-502.jpg",
+    "role" : "SALA"
+}
+
+
+
+{
+    "_id" : ObjectId("63d5f3145f77bbe73726104e"),
+    "nombreeventopro" : "Título: La Fortaleza Militar.",
+    "informacion" : "Título de la Exposición: Origen y evolución histórica del cuartel.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "A través de la cartografia de la ciudad de Santiago de Cuba, se recrea el origen y la evolución histórica del cuartel, desde 1859 hasta 1944. El gobernador civil Don Carlos de Vargas Machuca y Cerveto, jefe de la Comandancia General del Departamento Oriental, emprende importantes obras civiles y militares en la ciudad. El 1ro de abril de 1859, por Real Orden, autoriza la construcción y luego preside el acto solemne para dar comienzo oficial a las obras constructivas del cuartel del Nuevo Presidio. Terminada la campaña militar de Los Diez Años (1878), se elaboró un nuevo proyecto de construcción militar con un presupuesto ascendente a $ 158,300 aprobado en la Real Orden del 14 de marzo de 1879. Esta edificación se llamó definitivamente Cuartel Reina Mercedes, en honor a la esposa del Rey de España, Alfonso XII. Para enaltecer una de las figuras más importantes de la gesta insurreccional y a propuesta del coronel Juan Vaillant y López del Castillo, jefe del Regimiento Maceo, confirmada por la orden especial No. 56, del 24 de abril de 1909, el cuartel es nombrado Moncada, el 20 de mayo de 1909, en honor al ?general de Íbano?, José Guillermo Moncada Veranes, quien sufrió prisión en el cuartel durante el siglo XIX. Se exhibe una réplica del sable utilizado por el insigne patriota ,durante las guerras de independencia contra el colonialismo español. En horas del mediodía del sábado 11 de diciembre de 1937, un incendio de origen desconocido destruye parcialmente el cuartel. El 18 de diciembre de 1937 fue aprobado por el presidente de la República, Federico Laredo Bru, la cifra de 100 000 pesos para la reconstrucción del cuartel Moncada. El 25 de febrero de 1944 se inauguró de forma oficial, por orden del dictador Fulgencio Batista, un edificio en forma de monobloque, bajo los códigos de la arquitectura militar. Desde el punto de vista estilístico, el inmueble constituye en la actualidad el conjunto más importante de la región oriental, dentro de la estática militar art dec. Una mesa táctil con cuatro estaciones, permite acceder a documentos valiosos asociados a los principales acontecimientos del cuartel, el facs mil del expediente carcelario de José Guillermo Moncada y Antonio Guiteras Holmes. Se puede consultar además, con el uso de la tecnología: fotografías, planos y mapas creados por importantes cartógrafos de la ciudad, tales como el santiaguero Luis Martínez Vidaud y el francís Luis Francisco Delmás.",
+    "fecha" : ISODate("2023-06-09T16:26:00.000Z"),
+    "img" : "63d5f3145f77bbe73726104e-845.jpg",
+    "role" : "SALA"
+}
+
+
+
+{
+    "_id" : ObjectId("63d5f7285f77bbe737261070"),
+    "nombreeventopro" : "Sala 3: Los Preparativos del Asalto.",
+    "informacion" : "Título de la Exposición: Génesis de la Generación del Centenario",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "La agudizacion de los males sociales en el período de la seudorrepública, unido a la frustración de las esperanzas del pueblo cubano, en las elecciones presidenciales de junio de 1952 truncadas por el Golpe de Estado del 10 de marzo, provocó un nuevo despertar de la conciencia nacional. Surge un grupo de jóvenes que inspirados en las ideas de José Martí, organizador de la Guerra Necesaria y liderados por el joven abogado Fidel Castro, comienzan a prepararse en función del reinicio de la lucha armada. Jóvenes del occidente de la isla, en su mayoría procedentes de Artemisa, Mayabeque, La Habana, entre otras, se aglutinan en pequeñas células muy bien compartimentadas, con el fin de entrenarse militarmente, para derrocar el régimen batistiano. Un año después del Golpe de Estado, los principales jefes del recién creado movimiento revolucionario, viajan al Oriente del país, en función de aunar voluntades para las acciones militares de Santiago de Cuba y Bayamo. Se reúnen Fidel Castro Ruz, Raúl Martínez Ararás, Ernesto Tizol y Renato Guitart, para precisar detalles en torno a las acciones a desarrollar durante el carnaval santiaguero, escogiéndose la fecha del 26 de julio de 1953, por resultar fin de semana. Se escogió una casa ubicada en las afueras de la ciudad de Santiago de Cuba, conocida como Villa Blanca, cerca de la Playa Siboney, para ser utilizada como cuartel general, donde se reuniría el contingente revolucionario, para ultimar detalles antes de partir para la acción. Momentos antes de la partida para los escenarios de combates, se da a conocer el Manifiesto a la Nación, se entonan las notas del himno nacional y Raúl Gómez García declama su poema. Ya estamos en combate. Integraron el grupo de jóvenes, 127 hombres y dos mujeres los cuales estaban dispuestos a ofrendar sus vidas por una causa justa: la libertad de su Patria. Parten en 16 autos hacia los lugares designados para la acción. La hora cero había llegado. El patriotismo martiano se multiplicaba en los jóvenes que acudían al perenne llamado de Villena: Hace falta una carga para matar bribones.",
+    "fecha" : null,
+    "img" : "63d5f7285f77bbe737261070-867.jpg",
+    "role" : "SALA"
+}
+
+
+{
+    "_id" : ObjectId("63d5ff615f77bbe7372610ac"),
+    "nombreeventopro" : "Sala 4: El Asalto.",
+    "informacion" : "Título de la Exposición: El Moncada: La respuesta necesaria",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "El 26 de julio de 1953, un grupo de jóvenes liderados por el Dr. Fidel Castro Ruz decidieron iniciar la última etapa de lucha, por nuestra liberación nacional, en el Centenario del natalicio de José Martí, Héroe Nacional de Cuba. El Cuartel Moncada, fortaleza militar más importante de la región oriental, fue uno de los lugares escogidos por la juventud del Centenario, junto con el cuartel Carlos Manuel de Céspedes en la ciudad de Bayamo, para iniciar la lucha contra la dictadura batistiana. La toma del cuartel Moncada, comprendía tomar por sorpresa a los soldados de la Posta 3, para así, penetrar al campamento militar, ocupar las armas y llamar al pueblo a incorporarse a la lucha para derrocar la tiranía batistiana. Esta acción sería apoyada por dos grupos, que tomarían dos puntos estratégicos para esta acción militar: el antiguo Hospital Saturnino Lora y el Palacio de Justicia. Una vez iniciada la acción y al producirse un encuentro inesperado con una patrulla de recorrido, que casi choca con el carro de Fidel Castro; los disparos al soldado que se dirigía hacia su casa, próxima al cuartel; más el disparo al soldado que accionó la alarma en la fortaleza, provocando el inicio de la defensa de ésta por los militares, provocó que se perdiera el factor sorpresa, tan necesario para el logro de la acción armada. A raíz de los sucesos del 26 de julio de 1953, se produjo una feroz represión contra los asaltantes, que trajo aparejado el asesinato en el cuartel Moncada, de 45 jóvenes capturados después de la acción, 10 asesinados en la zona de Bayamo, más los seis caídos en combate, sumando 61, los mártires por los sucesos del 26 de julio. Sus cadáveres fueron esparcidos en el cuartel Moncada y en otros puntos de la ciudad, para simular que habían caído en la acción. Luego fueron enterrados en los cementerios del Caney y Santa Ifigenia, aunque algunos cuerpos resultaron desaparecidos. Algunos sobrevivientes lograron escapar, otros, fueron capturados días después como Fidel, que fue encontrado por el Segundo Teniente del Moncada, Pedro Manuel Sarría Tartabull, el 1ro de agosto de 1953, en las estribaciones de la cordillera de la Gran Piedra. Las acciones del 26 de julio de 1953, resultaron ser el motor pequeño que echó a andar, el motor grande.",
+    "fecha" : null,
+    "img" : "63d5ff615f77bbe7372610ac-677.jpg",
+    "role" : "SALA"
+}
+
+
+{
+    "_id" : ObjectId("63d5ffc85f77bbe7372610ba"),
+    "nombreeventopro" : "Sala 5: La Historia me Absolverá",
+    "informacion" : "Título de la Exposición: Condenadme, no importa, la Historia me Absolverá.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "El 21 de septiembre de 1953, se dio inicio a la Causa 37/53, que resultó ser el proceso judicial más grande del período republicano en Cuba, a partir de los sucesos ocurridos el 26 de julio de 1953, en el Oriente de Cuba. En once vistas, celebradas en la Audiencia de Santiago de Cuba, una en el antiguo Hospital Civil Saturnino Lora y otra en la antigua Colonia Española, fueron procesados 50 personas, y condenados 32 jóvenes asaltantes a los cuarteles Moncada y Carlos Manuel de Céspedes a quince, trece, diez, y tres años; y a siete meses de privación de libertad, acusados de atentar contra los poderes del Estado. En la exposición permanente se exhiben pertenencias de los asaltantes como pruebas de convicción del proceso judicial de la Causa 37/53. Fueron enviados al Reclusorio Nacional para Hombres, en Islas de Pinos, actualmente Municipio Especial Isla de la Juventud; a excepción de Melba Hernández y Haydee Santamaría, que fueron trasladas a la Cárcel de Guanajay, ubicada en la provincia de la Habana. Con el objetivo de invertir el tiempo durante las largas horas de prisión, los jóvenes moncadistas crearon la Academia Ideológica Abel Santamaría, y la Biblioteca Raúl Gómez García, en función de adquirir conocimientos de cultura general, además de una superación política ideológica. La campaña pro amnistía alcanzó gran auge a lo largo y ancho del país. El papel que desempeñaron las madres cubanas, permitió que se firmara por el Presidente de la República, el 6 de mayo de 1955, la ley de Amnistía, resultando liberados los moncadistas el día 15 de mayo de ese año. Fuera de prisión, se reúnen para constituir el Movimiento 26 de Julio, aprobándose el nombre de esta organización, que había sido propuesto en prisión, manteniendo la idea de la lucha armada, para el derrocamiento del tirano. Pero, resultaba imposible permanecer en Cuba, debido a la persecución a que eran sometidos, lo que motivó la salida al exilio. Otro de los exponentes que muestra la exposición es una réplica en miniatura del Yate Granma (barco de 62 pies) obsequiada por el General de Ejército Raúl Castro Ruz al Museo en el año 1995, en conmemoración del Centenario de la caída en combate de nuestro Héroe Nacional José Julián Martí Pérez. El 25 de noviembre de 1956, parte del Puerto de Veracruz, México el Yate Granma con 82 expedicionarios, para el reinicio de la lucha armada contra la tiranía batistiana. Como parte de la continuidad histórica, 21 jóvenes integrantes del contingente revolucionario que participó el 26 de julio de 1953, en las acciones armadas en el Oriente cubano, protagonizaron la expedición del Granma. Comenzó una nueva etapa de lucha armada, cimentada con la sangre y el heroísmo de diversas generaciones de cubanos.",
+    "fecha" : ISODate("2023-06-09T16:36:00.000Z"),
+    "img" : "63d5ffc85f77bbe7372610ba-937.jpg",
+    "role" : "SALA"
+}
+
+
+{
+    "_id" : ObjectId("63d600305f77bbe7372610c6"),
+    "nombreeventopro" : "Sala 6: Victoria de un Ideal",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63d600305f77bbe7372610c6-184.jpg",
+    "detalle" : "El 1ro de Enero de 1959 Triunfo la Revolución Cubana, los rebeldes entraron al cuartel Moncada para la rendición de la plaza militar, iniciándose un proceso de importantes transformaciones, que también provocaron un cambio en la función social de la antigua fortaleza militar.  Tal y como lo proclamara Fidel en La historia me Absolverá, los cuarteles se convertirían en escuelas. El 28 de enero de 1960, el antiguo cuartel Moncada se convirtió en la Ciudad Escolar 26 de julio. En la exposición se pueden apreciar fotografías del acto oficial donde se destacan: Osvaldo Dorticós Torrado Presidente de la República de Cuba, Fidel Castro Ruz Primer Ministro y el Comandante Raúl Castro Ruz. Siete años después, el 26 de julio de 1967, se inauguró el Museo Histórico 26 de Julio, con motivo del XIV aniversario de los hechos ocurridos en igual fecha, pero de 1953.  Con la utilización de la nuevas tecnologías se visualizarán, las visitas acontecidas en la década de los 70,  donde participó el Comandante en Jefe Fidel Castro Ruz, quién era el fundamental interlocutor y guía de lujo, al mostrar con orgullo a sus amigos ,desde la maqueta los detalles del asalto al Cuartel Moncada. A partir de 2007, con la visita de Hugo Chávez Frías, se hizo más frecuente la presencia en estos recorridos del entonces presidente de nuestro país Raúl Castro Ruz, también protagonista de estos hechos, quien brindaba a los invitados detalles de las hazañas de sus hermanos de lucha.   El 26 de Julio de 1953, es sin lugar a dudas, la fecha más trascendental del proceso revolucionario cubano en su última etapa. El tratamiento dado a tan significativa efemérides tuvo sus particularidades antes y después de 1959. Previo al triunfo revolucionario la dictadura militar de Fulgencio Batista no permitió ningún tipo de festejo alrededor de este hecho, pues se reconocería de tal manera el ejemplo imperecedero de la juventud a la cual la dictadura segó la vida. En 1959, Se aprobó el decreto ley que estableció el 26 de julio como Día de la Rebeldía nacional y el 30 de Julio como Día de los Mártires de la Revolución Cubana, en una reunión histórica del Consejo de Ministros efectuado en el antiguo Cuartel Moncada. Durante la realización del Taller Nacional Aniversario 65 del 26 de Julio, que reunió por primera vez en esta ciudad, escenario principal del suceso que inició la última etapa de la gesta libertaria de los cubanos, a museólogos, investigadores y especialistas de estos sitios en el país para intercambiar experiencias en torno al trabajo patrimonial, de investigación y promoción sobre estos acontecimientos. Se acordó crear la Red de Instituciones vinculadas a las acciones del 26 de Julio de 1953.",
+    "fecha" : ISODate("2023-08-04T16:52:00.000Z"),
+    "informacion" : "Título de la Exposición: “Cuba, que sería de ti, si hubieras dejado morir a tu apóstol”"
+}
+
+
+{
+    "_id" : ObjectId("63d6018a5f77bbe7372610dc"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "Título de la Noticia",
+    "img" : "63d6018a5f77bbe7372610dc-32.jpg",
+    "fecha" : ISODate("2023-07-20T15:26:00.000Z"),
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("63d601db5f77bbe7372610e8"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "Título de la Noticia",
+    "fecha" : ISODate("2023-07-20T15:27:00.000Z"),
+    "img" : "63d601db5f77bbe7372610e8-292.jpg",
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("63d602475f77bbe7372610f8"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "Breve descripción de la noticia máximo 60 caracteres....................................",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "Euismod atras vulputate iltricies etri elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
+    "fecha" : ISODate("2023-07-20T15:27:00.000Z"),
+    "img" : "63d602475f77bbe7372610f8-190.jpg",
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("63d602d85f77bbe73726110e"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63d602d85f77bbe73726110e-868.jpg",
+    "detalle" : "",
+    "fecha" : ISODate("2023-07-20T15:25:00.000Z"),
+    "role" : "NOTICIA"
+}
+
+
+
+{
+    "_id" : ObjectId("63d7172b50b8c7e72de46eff"),
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur lectus lacus, rutrum sit amet placerat et, bibendum nec mauris. Duis molestie, purus eget placerat viverra, nisi odio gravida sapien, congue tincidunt nisl ante nec tellus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sagittis, massa fringilla consequat blandit, mauris ligula porta nisi, non tristique enim sapien vel nisl. Suspendisse vestibulum lobortis dapibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent nec tempus nibh. Donec mollis commodo metus et fringilla. Ut ac elit non mi pharetra dictum nec quis nibh. Pellentesque ut fringilla elit. Aliquam non ipsum id leo eleifend sagittis id a lorem. Sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam massa mauris, viverra et rhoncus a, feugiat ut sem. Quisque ultricies diam tempus quam molestie vitae sodales dolor sagittis. Praesent commodo sodales purus. Maecenas scelerisque ligula vitae leo adipiscing a facilisis nisl ullamcorper. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.",
+    "img" : "63d7172b50b8c7e72de46eff-989.jpg",
+    "informacion" : "Breve descripción de la noticia máximo 60 caracteres",
+    "nombreeventopro" : "Título del evento",
+    "fecha" : ISODate("2023-02-02T18:10:00.000Z"),
+    "role" : "ACTIVIDAD"
+}
+
+
+{
+    "_id" : ObjectId("63d71c2450b8c7e72de46f39"),
+    "nombreeventopro" : "Nombre del evento principal",
+    "informacion" : "Breve descripción del evento Euismod atras vulputate iltricies etri elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur lectus lacus, rutrum sit amet placerat et, bibendum nec mauris. Duis molestie, purus eget placerat viverra, nisi odio gravida sapien, congue tincidunt nisl ante nec tellus. Vestibulum                                         ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sagittis, massa fringilla consequat blandit, mauris ligula porta nisi,                                         non tristique enim sapien vel nisl. Suspendisse vestibulum lobortis dapibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent nec tempus nibh. Donec mollis commodo                                         metus et fringilla. Ut ac elit non mi pharetra dictum nec quis nibh. Pellentesque ut fringilla elit. Aliquam non ipsum id leo eleifend sagittis id a lorem. Sociis natoque penatibus et magnis dis parturient montes,                                         nascetur ridiculus mus. Aliquam massa mauris, viverra et rhoncus a, feugiat ut sem. Quisque ultricies diam tempus quam molestie vitae sodales dolor sagittis. Praesent commodo sodales purus. Maecenas scelerisque                                         ligula vitae leo adipiscing a facilisis nisl ullamcorper. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.",
+    "fecha" : null,
+    "img" : "63d71c2450b8c7e72de46f39-634.jpg",
+    "role" : ""
+}
+
+
+
+{
+    "_id" : ObjectId("63d71fef50b8c7e72de46f77"),
+    "nombreeventopro" : "Título del evento desarrollado",
+    "informacion" : "Breve descripción del evento",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur lectus lacus, rutrum sit amet placerat et, bibendum nec mauris. Duis molestie, purus eget placerat viverra, nisi odio gravida sapien, congue tincidunt nisl ante nec tellus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sagittis, massa fringilla consequat blandit, mauris ligula porta nisi, non tristique enim sapien vel nisl. Suspendisse vestibulum lobortis dapibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent nec tempus nibh. Donec mollis commodo metus et fringilla. Ut ac elit non mi pharetra dictum nec quis nibh. Pellentesque ut fringilla elit. Aliquam non ipsum id leo eleifend sagittis id a lorem. Sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam massa mauris, viverra et rhoncus a, feugiat ut sem. Quisque ultricies diam tempus quam molestie vitae sodales dolor sagittis. Praesent commodo sodales purus. Maecenas scelerisque ligula vitae leo adipiscing a facilisis nisl ullamcorper. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.",
+    "fecha" : ISODate("2023-05-10T18:27:00.000Z"),
+    "img" : "63d71fef50b8c7e72de46f77-721.jpg",
+    "role" : "ACTIVIDAD"
+}
+
+
+
+{
+    "_id" : ObjectId("63d7206450b8c7e72de46f87"),
+    "nombreeventopro" : "Título del evento desarrollado",
+    "informacion" : "Breve descripción del evento",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur lectus lacus, rutrum sit amet placerat et, bibendum nec mauris. Duis molestie, purus eget placerat viverra, nisi odio gravida sapien, congue tincidunt nisl ante nec tellus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sagittis, massa fringilla consequat blandit, mauris ligula porta nisi, non tristique enim sapien vel nisl. Suspendisse vestibulum lobortis dapibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent nec tempus nibh. Donec mollis commodo metus et fringilla. Ut ac elit non mi pharetra dictum nec quis nibh. Pellentesque ut fringilla elit. Aliquam non ipsum id leo eleifend sagittis id a lorem. Sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam massa mauris, viverra et rhoncus a, feugiat ut sem. Quisque ultricies diam tempus quam molestie vitae sodales dolor sagittis. Praesent commodo sodales purus. Maecenas scelerisque ligula vitae leo adipiscing a facilisis nisl ullamcorper. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.",
+    "fecha" : ISODate("2023-05-04T18:30:00.000Z"),
+    "img" : "63d7206450b8c7e72de46f87-437.jpg",
+    "role" : "ACTIVIDAD"
+}
+
+
+
+{
+    "_id" : ObjectId("63d7209650b8c7e72de46f8b"),
+    "nombreeventopro" : "Título del evento desarrollado",
+    "informacion" : "Breve descripción del evento",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur lectus lacus, rutrum sit amet placerat et, bibendum nec mauris. Duis molestie, purus eget placerat viverra, nisi odio gravida sapien, congue tincidunt nisl ante nec tellus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sagittis, massa fringilla consequat blandit, mauris ligula porta nisi, non tristique enim sapien vel nisl. Suspendisse vestibulum lobortis dapibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent nec tempus nibh. Donec mollis commodo metus et fringilla. Ut ac elit non mi pharetra dictum nec quis nibh. Pellentesque ut fringilla elit. Aliquam non ipsum id leo eleifend sagittis id a lorem. Sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam massa mauris, viverra et rhoncus a, feugiat ut sem. Quisque ultricies diam tempus quam molestie vitae sodales dolor sagittis. Praesent commodo sodales purus. Maecenas scelerisque ligula vitae leo adipiscing a facilisis nisl ullamcorper. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.",
+    "fecha" : ISODate("2023-05-04T18:31:00.000Z"),
+    "img" : "63d7209650b8c7e72de46f8b-63.jpg",
+    "role" : "ACTIVIDAD"
+}
+
+
+{
+    "_id" : ObjectId("63d720f950b8c7e72de46f99"),
+    "nombreeventopro" : "Nombre de la actividad",
+    "informacion" : "actividad22",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "actividad22",
+    "fecha" : ISODate("2023-04-01T22:16:00.000Z"),
+    "img" : "63d720f950b8c7e72de46f99-143.jpg",
+    "role" : "ACTIVIDAD"
+}
+
+
+{
+    "_id" : ObjectId("63d7232d50b8c7e72de46fbf"),
+    "nombreeventopro" : "Nombre de la actividad",
+    "informacion" : "actividad23",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "",
+    "fecha" : ISODate("2023-03-29T22:21:00.000Z"),
+    "img" : "63d7232d50b8c7e72de46fbf-967.jpg",
+    "role" : "ACTIVIDAD"
+}
+
+
+{
+    "_id" : ObjectId("63d73b7650b8c7e72de4703e"),
+    "nombreeventopro" : "Nombre de la actividad",
+    "informacion" : "actividad24",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "actividad24",
+    "fecha" : ISODate("2023-03-28T22:22:00.000Z"),
+    "img" : "63d73b7650b8c7e72de4703e-410.jpg",
+    "role" : "ACTIVIDAD"
+}
+
+
+{
+    "_id" : ObjectId("63d73bb650b8c7e72de4704a"),
+    "nombreeventopro" : "Nombre de la actividad ",
+    "informacion" : "actividad25",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "actividad25",
+    "fecha" : ISODate("2023-03-31T01:29:00.000Z"),
+    "img" : "63d73bb650b8c7e72de4704a-514.jpg",
+    "role" : "ACTIVIDAD"
+}
+
+
+{
+    "_id" : ObjectId("63d73c0c50b8c7e72de4705c"),
+    "nombreeventopro" : "Nombre de la actividad",
+    "informacion" : "actividad26",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "actividad26",
+    "fecha" : ISODate("2023-03-31T01:42:00.000Z"),
+    "img" : "63d73c0c50b8c7e72de4705c-966.jpg",
+    "role" : "ACTIVIDAD"
+}
+
+
+{
+    "_id" : ObjectId("63d73c4850b8c7e72de47068"),
+    "nombreeventopro" : "Nombre de la actividad",
+    "informacion" : "actividad27",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63d73c4850b8c7e72de47068-401.jpg",
+    "fecha" : ISODate("2023-03-29T01:58:00.000Z"),
+    "role" : "ACTIVIDAD"
+}
+
+
+{
+    "_id" : ObjectId("63d73cb050b8c7e72de47074"),
+    "nombreeventopro" : "Nombre de la actividad",
+    "informacion" : "actividad28",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "",
+    "fecha" : ISODate("2023-04-01T01:59:00.000Z"),
+    "role" : "ACTIVIDAD",
+    "img" : "63d73cb050b8c7e72de47074-509.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63d73cdd50b8c7e72de47080"),
+    "nombreeventopro" : "Nombre de la actividad",
+    "informacion" : "actividad29",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "Nombre de la actividad",
+    "fecha" : ISODate("2023-04-03T01:59:00.000Z"),
+    "role" : "ACTIVIDAD",
+    "img" : "63d73cdd50b8c7e72de47080-448.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63d73d1250b8c7e72de4708c"),
+    "nombreeventopro" : "Nombre del evento",
+    "informacion" : "actividad30",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "fecha" : ISODate("2023-03-11T03:52:00.000Z"),
+    "img" : "63d73d1250b8c7e72de4708c-850.jpg",
+    "role" : "ACTIVIDAD"
+}
+
+
+{
+    "_id" : ObjectId("63d73d4b50b8c7e72de4709a"),
+    "nombreeventopro" : "Nombre del evento",
+    "informacion" : "actividad30",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "",
+    "fecha" : ISODate("2023-02-11T03:53:00.000Z"),
+    "role" : "ACTIVIDAD",
+    "img" : "63d73d4b50b8c7e72de4709a-853.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63d73d7b50b8c7e72de470a6"),
+    "nombreeventopro" : "Nombre del evento",
+    "informacion" : "Nombre del evento",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "",
+    "fecha" : ISODate("2022-12-30T03:53:00.000Z"),
+    "role" : "ACTIVIDAD",
+    "img" : "63d73d7b50b8c7e72de470a6-815.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63d73da750b8c7e72de470b2"),
+    "nombreeventopro" : "Nombre del evento",
+    "informacion" : "actividad33",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "",
+    "fecha" : ISODate("2023-04-09T03:54:00.000Z"),
+    "role" : "ACTIVIDAD",
+    "img" : "63d73da750b8c7e72de470b2-733.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63d73de650b8c7e72de470be"),
+    "nombreeventopro" : "Nombre del evento",
+    "informacion" : "actividad34",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "",
+    "fecha" : ISODate("2023-03-09T03:55:00.000Z"),
+    "role" : "ACTIVIDAD",
+    "img" : "63d73de650b8c7e72de470be-924.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63d73e3950b8c7e72de470ca"),
+    "nombreeventopro" : "Nombre del evento",
+    "informacion" : "actividad35",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "actividad35",
+    "fecha" : ISODate("2023-03-11T03:27:00.000Z"),
+    "img" : "63d73e3950b8c7e72de470ca-251.jpg",
+    "role" : "ACTIVIDAD"
+}
+
+
+{
+    "_id" : ObjectId("63d73e7250b8c7e72de470d8"),
+    "nombreeventopro" : "Nombre del evento",
+    "informacion" : "actividad36",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "",
+    "fecha" : ISODate("2023-03-10T03:27:00.000Z"),
+    "role" : "ACTIVIDAD",
+    "img" : "63d73e7250b8c7e72de470d8-230.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63d73ea050b8c7e72de470e4"),
+    "nombreeventopro" : "Nombre del evento",
+    "informacion" : "actividad37",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "",
+    "fecha" : ISODate("2023-03-26T02:28:00.000Z"),
+    "role" : "ACTIVIDAD",
+    "img" : "63d73ea050b8c7e72de470e4-300.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63d73ece50b8c7e72de470f0"),
+    "nombreeventopro" : "Nombre del evento",
+    "informacion" : "actividad38",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "",
+    "fecha" : ISODate("2023-03-27T02:29:00.000Z"),
+    "role" : "ACTIVIDAD",
+    "img" : "63d73ece50b8c7e72de470f0-464.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63d73efe50b8c7e72de470fc"),
+    "nombreeventopro" : "Nombre del evento",
+    "informacion" : "actividad38",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63d73efe50b8c7e72de470fc-102.jpg",
+    "detalle" : "",
+    "fecha" : ISODate("2023-03-03T03:29:00.000Z"),
+    "role" : "ACTIVIDAD"
+}
+
+
+{
+    "_id" : ObjectId("63d73f3e50b8c7e72de47108"),
+    "nombreeventopro" : "Nombre del evento",
+    "informacion" : "actividad40",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "",
+    "fecha" : ISODate("2023-03-23T02:30:00.000Z"),
+    "role" : "ACTIVIDAD",
+    "img" : "63d73f3e50b8c7e72de47108-108.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63d73fba50b8c7e72de47116"),
+    "nombreeventopro" : "Nombre del evento",
+    "informacion" : "actividad41",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "",
+    "fecha" : ISODate("2023-04-10T02:30:00.000Z"),
+    "role" : "ACTIVIDAD",
+    "img" : "63d73fba50b8c7e72de47116-9.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63d73fe750b8c7e72de47122"),
+    "nombreeventopro" : "Nombre del evento",
+    "informacion" : "actividad42",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "",
+    "fecha" : ISODate("2023-03-11T03:30:00.000Z"),
+    "role" : "ACTIVIDAD",
+    "img" : "63d73fe750b8c7e72de47122-493.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63d7401350b8c7e72de4712e"),
+    "nombreeventopro" : "Nombre del evento",
+    "informacion" : "actividad42",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "",
+    "fecha" : ISODate("2023-03-24T02:31:00.000Z"),
+    "role" : "ACTIVIDAD",
+    "img" : "63d7401350b8c7e72de4712e-396.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63d7404b50b8c7e72de4713a"),
+    "nombreeventopro" : "Nombre del evento",
+    "informacion" : "actividad44",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "",
+    "fecha" : ISODate("2023-03-17T02:31:00.000Z"),
+    "role" : "ACTIVIDAD",
+    "img" : "63d7404b50b8c7e72de4713a-449.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63d7409650b8c7e72de4714a"),
+    "nombreeventopro" : "Nombre del evento",
+    "informacion" : "actividad45",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "",
+    "fecha" : ISODate("2023-04-07T02:32:00.000Z"),
+    "role" : "ACTIVIDAD",
+    "img" : "63d7409650b8c7e72de4714a-786.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63d7410250b8c7e72de4715a"),
+    "nombreeventopro" : "Nombre del evento",
+    "informacion" : "actividad46",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "",
+    "fecha" : ISODate("2023-04-06T02:32:00.000Z"),
+    "role" : "ACTIVIDAD",
+    "img" : "63d7410250b8c7e72de4715a-256.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63d93a1a83b82e99af2c9638"),
+    "nombreeventopro" : "1. titulo del 1er video",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "fecha" : ISODate("2023-03-30T15:10:00.000Z"),
+    "img" : "63d93a1a83b82e99af2c9638-29.mp4",
+    "role" : "HISTORIA"
+}
+
+
+{
+    "_id" : ObjectId("63d9553283b82e99af2c96aa"),
+    "nombreeventopro" : "1. titulo del 1er video",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "fecha" : ISODate("2023-03-29T15:29:00.000Z"),
+    "img" : "63d9553283b82e99af2c96aa-375.mp4",
+    "role" : "HISTORIA"
+}
+
+
+{
+    "_id" : ObjectId("63d955ec83b82e99af2c96b2"),
+    "nombreeventopro" : "2. titulo del 2do video",
+    "informacion" : "",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "",
+    "fecha" : ISODate("2023-03-02T16:32:00.000Z"),
+    "role" : "HISTORIA",
+    "img" : "63d955ec83b82e99af2c96b2-134.mp4"
+}
+
+
+{
+    "_id" : ObjectId("63d956e883b82e99af2c96ba"),
+    "nombreeventopro" : "3. titulo del 3er video",
+    "informacion" : "",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "",
+    "fecha" : ISODate("2023-03-02T16:33:00.000Z"),
+    "role" : "HISTORIA",
+    "img" : "63d956e883b82e99af2c96ba-590.mp4"
+}
+
+
+{
+    "_id" : ObjectId("63d9579183b82e99af2c96c4"),
+    "nombreeventopro" : "4. titulo del 4to video",
+    "informacion" : "",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "",
+    "fecha" : ISODate("2023-02-08T16:35:00.000Z"),
+    "role" : "HISTORIA",
+    "img" : "63d9579183b82e99af2c96c4-688.mp4"
+}
+
+
+{
+    "_id" : ObjectId("63d9582383b82e99af2c96cc"),
+    "nombreeventopro" : "5. titulo del 5to video",
+    "informacion" : "",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "",
+    "fecha" : ISODate("2023-04-14T15:38:00.000Z"),
+    "role" : "HISTORIA",
+    "img" : "63d9582383b82e99af2c96cc-547.mp4"
+}
+
+
+{
+    "_id" : ObjectId("63d958a383b82e99af2c96d4"),
+    "nombreeventopro" : "6. titulo del 6to video",
+    "informacion" : "",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "",
+    "fecha" : ISODate("2022-11-03T15:39:00.000Z"),
+    "role" : "HISTORIA",
+    "img" : "63d958a383b82e99af2c96d4-44.mp4"
+}
+
+
+{
+    "_id" : ObjectId("63d958ee83b82e99af2c96dc"),
+    "nombreeventopro" : "7. titulo del 7mo video",
+    "informacion" : "",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "",
+    "fecha" : ISODate("2022-12-01T16:47:00.000Z"),
+    "role" : "HISTORIA",
+    "img" : "63d958ee83b82e99af2c96dc-599.mp4"
+}
+
+
+{
+    "_id" : ObjectId("63d96dc60569d2f777820539"),
+    "nombreeventopro" : "8. titulo del 8vo video",
+    "informacion" : "",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "",
+    "img" : "63d96dc60569d2f777820539-217.mp4",
+    "fecha" : ISODate("2022-12-08T16:49:00.000Z"),
+    "role" : "HISTORIA"
+}
+
+
+{
+    "_id" : ObjectId("63d971610569d2f777820583"),
+    "nombreeventopro" : "9. titulo del 9no video ",
+    "informacion" : "",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "",
+    "img" : "63d971610569d2f777820583-435.mp4",
+    "fecha" : ISODate("2023-02-02T16:50:00.000Z"),
+    "role" : "HISTORIA"
+}
+
+
+{
+    "_id" : ObjectId("63d972480569d2f777820591"),
+    "nombreeventopro" : "Moncada",
+    "informacion" : "Historia de la Fortaleza Militar: De nuevo Presidio a Cuartel Moncada",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "El Gobernador Civil Don Carlos de Vargas Machuca, y Jefe de la Comandancia General del Departamento Oriental, emprendi? importantes obras civiles y militares en la ciudad. Tal es el caso del campo ofensivo, que se proyecta para la ciudad integrado por                         el conjunto de cuarteles y hospital ubicados al este de la ciudad, y que definitivamente se llamar?a Campo Militar de la Reina, bajo la direcci?n de Don Manuel de Ciria Caona, Marqu?s de Villaitre. El proyecto del plan general                         propuesto se elev? en el a?o 1958 y fue concebido por una comisi?n integrada por los ingenieros Manuel Soriano y Manuel Heredia. El 1ro de abril de 1859, por Real Orden, se autoriza la construcci?n para lo cual se destin? un presupuesto                         inicial de $ 300 000. De acuerdo a Jacobo de la Pezuela, era un edifico de m?s de 200 varas de longitud sobre 90 de anchura de planta baja y de sencilla y s?lida construcci?n que se le llam? cuartel del \"Nuevo Presidio\". Ocupando                         sus cuatro lados abiertos con galer?as interiores a vastos patios, las salas y departamentos destinados a los presidiarios, escoltas y empleados del presidio. Terminada la campa?a militar de los diez a?os, se elabor? un nuevo proyecto                         de construcci?n militar con un presupuesto ascendente a $ 158,300 aprobado en la Real Orden del 14 de marzo de 1879. Logr?ndose ejecutar un inmueble de dos pisos en la fachada principal, y mitad laterales. Edificio grande y s?lido,                         de mamposter?a y tejas francesas. Ocupaba una superficie de 8900 metros cuadrados. Esta edificaci?n se llam? definitivamente Cuartel Reina Mercedes, en honor a la esposa del Rey de Espa?a, Alfonso XII. Es significativo se?alar,                         que durante las conflagraciones militares del siglo XIX, sirvi? de sanatorio a los soldados heridos en las acciones combativas, o enfermos de c?lera, paludismo y otras epidemias que azotaron la ciudad. Posteriormente en 1899 se                         crea la Guardia Rural, cuerpo represivo, que tuvo su sede principal en el cuartel \"Reina Mercedes\". El 20 de mayo de 1902 se establece, el Regimiento No3 Antonio Maceo, nombrando como su primer jefe al General de Divisi?n Saturnino                         Lora Torres, quien tom? posesi?n del cargo, el 31 de julio de 1902. A propuesta del coronel Juan Vaillant y L?pez del Castillo, jefe del Regimiento no 3 de la Guardia Rural, confirmada por la orden especial no 56, del 24 de abril                         de 1909, el cuartel es nombrado Moncada, el 20 de mayo de1909, en honor al general de ?bano, Mayor General Jos? Guillermo Moncada Veranes, quien sufri? prisi?n durante el siglo XIX. El 11 de diciembre de 1937, un incendio de origen                         desconocido, destruye parcialmente el cuartel. El 18 de diciembre de 1937 fue aprobado por el Presidente de la Rep?blica Federico Laredo Bru la cifra de 100000 pesos para la reconstrucci?n del cuartel Moncada. A partir de 1938,                         comienzan los trabajos constructivos por la Secci?n de Ingenier?a del Ej?rcito y finalizaron en 1944. El 25 de febrero de ese a?o se inaugur? de forma oficial, por el dictador Fulgencio Batista, un edificio en forma de monobloque,                         bajo los c?digos de la arquitectura Art Dec?. Planim?tricamente, se comporta como un extenso bloque en forma de peine que recorre de sur a norte, interceptado, por seis cuerpos secundarios que se comunican con patios abiertos.                         Las fachadas quedan singularizadas por la presencia, en ritmo regular, de grandes pilastras de superficies escalonadas que las recorren hasta sobresalir en forma de pin?culos dentados. Dese el punto de vista estil?stico constituye                         en la actualidad el conjunto m?s importante dentro de la est?tica Art Dec? de la Ciudad. El 26 de julio de 1953 Fidel Castro Ruz y un grupo de j?venes protagonizan el asalto al cuartel Moncada en Santiago de Cuba y el cuartel Carlos                         Manuel de C?spedes en Bayamo. Se inicia as?, una nueva etapa por la independencia definitiva, dirigida por nuestro l?der hist?rico, como continuidad de las gestas independentistas iniciadas en el siglo XIX. El 1ro de enero de 1959,                         entran las fuerzas rebeldes al Cuartel Moncada y la guarnici?n del Regimiento No 1 Maceo, junto a su jefe, el Coronel Jos? Rego Rubido, no se resistieron y abrieron las puertas, para una nueva ?poca en la historia de tan importante                         sitio de la ciudad de Santiago de Cuba. El comandante del Ej?rcito Rebelde Ra?l Castro, entr? al Moncada; all? les habl? a las tropas, y por orden de Fidel Castro, conmina a los oficiales a rendirse ante las fuerzas rebeldes. Para                         rendir homenaje, al autor intelectual de la heroica gesta, nuestro H?roe Nacional Jos? Mart?, el 28 de enero de 1960 Fidel Castro Ruz, en su cargo de Primer Ministro de Cuba, entrega al Ministerio de Educaci?n el inmueble cuartelario,                         para educar e instruir a las nuevas generaciones. Nace, con todo el simbolismo la conversi?n del cuartel en aula de clases, la ?Ciudad Escolar 26 de julio?. Siete a?os despu?s de haberse producido la entrega al Ministerio de Educaci?n                         de la Ciudad Escolar 26 de julio y con motivo del XIV aniversario de los hechos ocurridos en el Cuartel Moncada en igual fecha, pero en 1953, uno de los acontecimientos de mayor trascendencia en la Historia de Cuba, propici? la                         creaci?n, el 26 de julio de 1967, del Museo Hist?rico 26 de Julio, una de las instituciones culturales m?s importantes del pa?s. Museo de obligada visita, para las numerosas personalidades que han recorrido la ciudad. El 10 de                         octubre de 1978, en uso de las facultades conferidas por el inciso c) del art?culo 4 de la Ley No.2 del 4 de agosto de 1977, La Comisi?n Nacional de Monumentos, presidida por el doctor Antonio N??ez Jim?nez, declara como Monumento                         Nacional, al antiguo cuartel Moncada por los valores hist?ricos y arquitect?nicos de la edificaci?n militar.",
+    "fecha" : null,
+    "role" : "",
+    "img" : "63d972480569d2f777820591-449.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63d973690569d2f77782059f"),
+    "nombreeventopro" : "Cuartel de Bayamo",
+    "informacion" : " El Parque Museo ?ico L?pez fue fundado el 26 de julio de 1978 y el 10 de febrero del 2004 declarado Monumento Nacional. Se encuentra ubicado en la calle Abigail Gonz?lez entre prolongaci?n General Garc?a y Seraf?n S?nchez, Bayamo, Granma. ",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "En este sitio radic? en ?pocas de colonia la residencia de Ignacio Zaragoit?a, tiempo despu?s el Fuerte Espa?a que contaba, entre otras cosas, con un campo de concentraci?n propio. Desde el 6 de junio de 1903 comenzaron las construcciones del cuartel Carlos Manuel de C?spedes, donde residi? un destacamento que se subordinaba al Regimiento 1 de la Guardia Rural hasta el 1ro de enero de 1959. El cuartel ten?a varias instalaciones, de las cuales solo ha sobrevivido el club de oficiales, lugar donde se reun?an los soldados para realizar sus reuniones y otras actividades.  El inmueble posee valores arquitect?nicos, tiene un estilo ecl?ctico, con preferencias de columnas con acabados lisos, pulidos, circulares y torneados con capiteles encima de las columnas, florones en el techo, entre otros elementos. Consta adem?s con un parque de ambiente acogedor, rodeado de ?rboles, plantas ornamentales y palmas que perpet?an la memoria de los j?venes de la Generaci?n del Centenario que asaltaron el cartel Carlos Manuel de C?spedes el 26 de julio de 1953.   El Gran Casino El terreno donde se encuentra la Sala Museo Los Asaltantes, era en 1911 un solar yermo perteneciente al se?or Ger?nimo Estera Acosta, quien m?s tarde vendi? a Seraf?n Farnes por un valor de 125 pesos. En 1926, este ?ltimo vendi? 115 metros a la se?ora Serafina Naranjo Montejo, construy?ndose all? una casa de madera y tejas, sitio que en 1947 fue vendido por un valor de 200 pesos a Juan Manuel Mart?nez Soa quien construye el hospedaje bautizado con el nombre de Gran Casino. Se encuentra ubicada en la calle Augusto M?rquez s/n entre Alfredo Uset y Capotico, reparto San Juan en la ciudad de Bayamo data del a?o 1950. ",
+    "fecha" : null,
+    "role" : "",
+    "img" : "63d973690569d2f77782059f-119.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63d97ce50569d2f7778205fb"),
+    "nombreeventopro" : "Visita del Secretario General del Comité Central del Partido Comunista de la URSS Leonid Brazhnev",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63d97ce50569d2f7778205fb-734.png",
+    "fecha" : ISODate("1974-02-01T17:10:00.000Z"),
+    "role" : "HISTORIA"
+}
+
+
+{
+    "_id" : ObjectId("63d982560569d2f777820659"),
+    "nombreeventopro" : "Visita de la autoridad nacional de Palestina Yasser Arafat",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63d982560569d2f777820659-290.jpg",
+    "fecha" : ISODate("1974-11-17T19:07:00.000Z"),
+    "role" : "HISTORIA"
+}
+
+
+{
+    "_id" : ObjectId("63d982db0569d2f777820665"),
+    "nombreeventopro" : "Visita del Presidente de Angola Agostinho Neto",
+    "informacion" : "",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "",
+    "fecha" : ISODate("1976-07-27T18:15:00.000Z"),
+    "role" : "HISTORIA",
+    "img" : "63d982db0569d2f777820665-369.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63d983bc0569d2f777820679"),
+    "nombreeventopro" : "Visita del Primer Ministro de Suecia Oloff Palme",
+    "informacion" : "",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "",
+    "fecha" : ISODate("1975-06-29T18:16:00.000Z"),
+    "role" : "HISTORIA",
+    "img" : "63d983bc0569d2f777820679-512.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63d9840f0569d2f777820683"),
+    "nombreeventopro" : "Visita del Presidente de Venezuela Hugo Rafael Chávez Frías",
+    "informacion" : "",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "",
+    "fecha" : ISODate("2007-12-22T19:34:00.000Z"),
+    "role" : "HISTORIA",
+    "img" : "63d9840f0569d2f777820683-760.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63d984540569d2f77782068b"),
+    "nombreeventopro" : "Visita del Presidente de Ecuador Rafael Correa",
+    "informacion" : "",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "",
+    "fecha" : ISODate("2017-05-04T18:19:00.000Z"),
+    "role" : "HISTORIA",
+    "img" : "63d984540569d2f77782068b-159.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63d9849b0569d2f777820693"),
+    "nombreeventopro" : "Nombre de la personalidad",
+    "informacion" : "Testimonio 1..................Texto de lo que escribí sobre la visita al museo.....Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget risus porta, tincidunt turpis at, interdum tortor. Suspendisse potenti. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce ante tellus, convallis non consectetur sed, pharetra nec ex.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "fecha" : ISODate("2023-05-10T18:36:00.000Z"),
+    "role" : "HISTORIA",
+    "detalle" : ""
+}
+
+
+{
+    "_id" : ObjectId("63d984d10569d2f77782069b"),
+    "nombreeventopro" : "Nombre de la personalidad",
+    "informacion" : "Testimonio 2..................Texto de lo que escribí sobre la visita al museo.....Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget risus porta, tincidunt turpis at, interdum tortor. Suspendisse potenti. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce ante tellus, convallis non consectetur sed, pharetra nec ex.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "",
+    "fecha" : ISODate("2023-05-09T18:38:00.000Z"),
+    "role" : "HISTORIA"
+}
+
+
+{
+    "_id" : ObjectId("63d988160569d2f7778206ed"),
+    "nombreeventopro" : "Nombre de la personalidad",
+    "informacion" : "Testimonio 3..................Texto de lo que escribi? sobre la visita al museo.....Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget risus porta, tincidunt turpis at, interdum tortor. Suspendisse                                                     potenti. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce ante tellus, convallis non consectetur sed, pharetra                                                     nec ex.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "",
+    "fecha" : ISODate("2023-03-01T19:31:00.000Z"),
+    "role" : "HISTORIA"
+}
+
+
+{
+    "_id" : ObjectId("63d98acf0569d2f77782071f"),
+    "nombreeventopro" : "Nombre de la personalidad",
+    "informacion" : "Testimonio 4..................Texto de lo que escribí sobre la visita al museo.....Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget risus porta, tincidunt turpis at, interdum tortor. Suspendisse potenti. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce ante tellus, convallis non consectetur sed, pharetra nec ex.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "",
+    "fecha" : ISODate("2023-05-03T18:53:00.000Z"),
+    "role" : "HISTORIA"
+}
+
+
+{
+    "_id" : ObjectId("63decdf76869d6b2b3ff677f"),
+    "nombreeventopro" : "Sala 7:",
+    "informacion" : "Las Ideas No Se Matan",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "Se expondrán muestras de las colecciones de los centros que integran la Red y de otras instituciones del país. Se realizarán exposiciones de las artes visuales, con el objetivo de promover la obra de artistas que abordan la temática del Moncada y la Revolución Cubana.",
+    "fecha" : ISODate("2023-06-09T16:48:00.000Z"),
+    "img" : "63decdf76869d6b2b3ff677f-460.jpg",
+    "role" : "SALA"
+}
+
+
+{
+    "_id" : ObjectId("63def9a94e16ce0f67da56fa"),
+    "nombreeventopro" : "Fernando Chenard Pi?a",
+    "informacion" : "T?tulo",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "  Se impartir?n conferencias por profesores, investigadores y muse?logos, relacionados con la tem?tica, presentaciones de libros, rueda de prensa, proyecci?n de materiales audiovisuales en 3D y otros formatos. ",
+    "fecha" : ISODate("2023-02-04T00:00:00.000Z"),
+    "img" : "63def9a94e16ce0f67da56fa-403.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63df0d60ec8971dd27d11e0a"),
+    "nombreeventopro" : "Renato Guitart",
+    "informacion" : "Renato Guitart",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df0d60ec8971dd27d11e0a-855.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63df0ddfec8971dd27d11e14"),
+    "nombreeventopro" : "Renato Guitart",
+    "informacion" : "Renato Guitart",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df0ddfec8971dd27d11e14-42.png"
+}
+
+
+{
+    "_id" : ObjectId("63df0e1bec8971dd27d11e1c"),
+    "nombreeventopro" : "Renato Guitart",
+    "informacion" : "Renato Guitart",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df0e1bec8971dd27d11e1c-72.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63df0e3fec8971dd27d11e24"),
+    "nombreeventopro" : "Renato Guitart",
+    "informacion" : "Renato Guitart",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df0e3fec8971dd27d11e24-744.png"
+}
+
+
+{
+    "_id" : ObjectId("63df0e96ec8971dd27d11e2c"),
+    "nombreeventopro" : "Renato Guitart",
+    "informacion" : "Renato Guitart",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df0e96ec8971dd27d11e2c-145.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63df0eb5ec8971dd27d11e36"),
+    "nombreeventopro" : "Renato Guitart",
+    "informacion" : "Renato Guitart",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df0eb5ec8971dd27d11e36-875.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63df0ec6ec8971dd27d11e3e"),
+    "nombreeventopro" : "Renato Guitart",
+    "informacion" : "Renato Guitart",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df0ec6ec8971dd27d11e3e-20.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63df12a7ec8971dd27d11e74"),
+    "nombreeventopro" : "Renato Guitart",
+    "informacion" : "Renato Guitart",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df12a7ec8971dd27d11e74-744.png"
+}
+
+
+{
+    "_id" : ObjectId("63df470c4938dad7f28ec471"),
+    "nombreeventopro" : "sala1",
+    "informacion" : "sala1",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df470c4938dad7f28ec471-896.png",
+    "detalle" : "sala1",
+    "fecha" : ISODate("2023-02-05T00:00:00.000Z")
+}
+
+
+{
+    "_id" : ObjectId("63df47454938dad7f28ec47d"),
+    "nombreeventopro" : "sala1",
+    "informacion" : "sala1",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df47454938dad7f28ec47d-226.jpg",
+    "detalle" : "sala1",
+    "fecha" : ISODate("2023-02-04T00:00:00.000Z"),
+    "role" : ""
+}
+
+
+{
+    "_id" : ObjectId("63df47ca4938dad7f28ec48b"),
+    "nombreeventopro" : "sala1",
+    "informacion" : "sala1",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df47ca4938dad7f28ec48b-269.png"
+}
+
+
+{
+    "_id" : ObjectId("63df47ec4938dad7f28ec493"),
+    "nombreeventopro" : "sala1",
+    "informacion" : "sala1",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df47ec4938dad7f28ec493-266.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63df480d4938dad7f28ec49b"),
+    "nombreeventopro" : "sala1",
+    "informacion" : "sala1",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "sala1",
+    "fecha" : ISODate("2023-02-03T00:00:00.000Z"),
+    "role" : "",
+    "img" : "63df480d4938dad7f28ec49b-143.png"
+}
+
+
+{
+    "_id" : ObjectId("63df48484938dad7f28ec4a7"),
+    "nombreeventopro" : "sala1",
+    "informacion" : "sala1",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df48484938dad7f28ec4a7-369.jpg",
+    "detalle" : "sala1",
+    "fecha" : null,
+    "role" : ""
+}
+
+
+{
+    "_id" : ObjectId("63df486c4938dad7f28ec4b3"),
+    "nombreeventopro" : "sala1",
+    "informacion" : "sala1",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df486c4938dad7f28ec4b3-104.png"
+}
+
+
+{
+    "_id" : ObjectId("63df48874938dad7f28ec4b9"),
+    "nombreeventopro" : "sala1",
+    "informacion" : "sala1",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df48874938dad7f28ec4b9-193.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63df48944938dad7f28ec4bd"),
+    "nombreeventopro" : "sala1",
+    "informacion" : "sala1",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df48944938dad7f28ec4bd-551.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63df489d4938dad7f28ec4c1"),
+    "nombreeventopro" : " sala2",
+    "informacion" : "sala2",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df489d4938dad7f28ec4c1-38.jpg",
+    "detalle" : "sala2",
+    "fecha" : ISODate("2023-02-04T00:00:00.000Z")
+}
+
+
+{
+    "_id" : ObjectId("63df4c384938dad7f28ec513"),
+    "nombreeventopro" : "sala2",
+    "informacion" : "sala2",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df4c384938dad7f28ec513-913.png"
+}
+
+
+{
+    "_id" : ObjectId("63df4c754938dad7f28ec51b"),
+    "nombreeventopro" : "sala2",
+    "informacion" : "sala2",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df4c754938dad7f28ec51b-258.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63df4ca14938dad7f28ec525"),
+    "nombreeventopro" : "sala2",
+    "informacion" : "sala2",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df4ca14938dad7f28ec525-937.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63df4ca84938dad7f28ec529"),
+    "nombreeventopro" : "sala2",
+    "informacion" : "sala2",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df4ca84938dad7f28ec529-32.png"
+}
+
+
+{
+    "_id" : ObjectId("63df4caf4938dad7f28ec52d"),
+    "nombreeventopro" : "sala2",
+    "informacion" : "sala2",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df4caf4938dad7f28ec52d-152.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63df4cb94938dad7f28ec531"),
+    "nombreeventopro" : "sala2",
+    "informacion" : "sala2",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df4cb94938dad7f28ec531-187.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63df4d314938dad7f28ec549"),
+    "nombreeventopro" : "sala2",
+    "informacion" : "sala2",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df4d314938dad7f28ec549-433.png"
+}
+
+
+{
+    "_id" : ObjectId("63df4d394938dad7f28ec54d"),
+    "nombreeventopro" : "sala2",
+    "informacion" : "sala2",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df4d394938dad7f28ec54d-67.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63df4fd24938dad7f28ec58d"),
+    "nombreeventopro" : "sala3",
+    "informacion" : "sala3",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df4fd24938dad7f28ec58d-374.png"
+}
+
+
+{
+    "_id" : ObjectId("63df4fdd4938dad7f28ec591"),
+    "nombreeventopro" : "sala3",
+    "informacion" : "sala3",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df4fdd4938dad7f28ec591-357.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63df4fe54938dad7f28ec595"),
+    "nombreeventopro" : "sala3",
+    "informacion" : "sala3",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df4fe54938dad7f28ec595-496.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63df4fea4938dad7f28ec599"),
+    "nombreeventopro" : "sala3",
+    "informacion" : "sala3",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df4fea4938dad7f28ec599-452.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63df4ff34938dad7f28ec59d"),
+    "nombreeventopro" : "sala3",
+    "informacion" : "sala3",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df4ff34938dad7f28ec59d-726.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63df4ffb4938dad7f28ec5a3"),
+    "nombreeventopro" : "sala3",
+    "informacion" : "sala3",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df4ffb4938dad7f28ec5a3-684.png"
+}
+
+
+{
+    "_id" : ObjectId("63df50004938dad7f28ec5a7"),
+    "nombreeventopro" : "sala3",
+    "informacion" : "sala3",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df50004938dad7f28ec5a7-583.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63df50054938dad7f28ec5ab"),
+    "nombreeventopro" : "sala3",
+    "informacion" : "sala3",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df50054938dad7f28ec5ab-226.png"
+}
+
+
+{
+    "_id" : ObjectId("63df50194938dad7f28ec5b1"),
+    "nombreeventopro" : "sala3",
+    "informacion" : "sala3",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df50194938dad7f28ec5b1-764.png"
+}
+
+
+{
+    "_id" : ObjectId("63df56814938dad7f28ec617"),
+    "nombreeventopro" : "sala4",
+    "informacion" : "sala4",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df56814938dad7f28ec617-359.png"
+}
+
+
+{
+    "_id" : ObjectId("63df568e4938dad7f28ec61b"),
+    "nombreeventopro" : "sala4",
+    "informacion" : "sala4",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df568e4938dad7f28ec61b-450.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63df56944938dad7f28ec61f"),
+    "nombreeventopro" : "sala4",
+    "informacion" : "sala4",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df56944938dad7f28ec61f-101.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63df569f4938dad7f28ec623"),
+    "nombreeventopro" : "sala4",
+    "informacion" : "sala4",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df569f4938dad7f28ec623-419.png"
+}
+
+
+{
+    "_id" : ObjectId("63df56a84938dad7f28ec627"),
+    "nombreeventopro" : "sala4",
+    "informacion" : "sala4",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df56a84938dad7f28ec627-317.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63df56b14938dad7f28ec62d"),
+    "nombreeventopro" : "sala4",
+    "informacion" : "sala4",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df56b14938dad7f28ec62d-898.png"
+}
+
+
+{
+    "_id" : ObjectId("63df56b74938dad7f28ec631"),
+    "nombreeventopro" : "sala4",
+    "informacion" : "sala4",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df56b74938dad7f28ec631-328.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63df56bf4938dad7f28ec635"),
+    "nombreeventopro" : "sala4",
+    "informacion" : "sala4",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df56bf4938dad7f28ec635-97.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63df56e34938dad7f28ec63d"),
+    "nombreeventopro" : "sala4",
+    "informacion" : "sala4",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df56e34938dad7f28ec63d-551.png"
+}
+
+
+{
+    "_id" : ObjectId("63df57924938dad7f28ec66d"),
+    "nombreeventopro" : "sala5",
+    "informacion" : "sala5",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df57924938dad7f28ec66d-761.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63df57984938dad7f28ec671"),
+    "nombreeventopro" : "sala5",
+    "informacion" : "sala5",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df57984938dad7f28ec671-68.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63df579d4938dad7f28ec675"),
+    "nombreeventopro" : "sala5",
+    "informacion" : "sala5",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df579d4938dad7f28ec675-637.png"
+}
+
+
+{
+    "_id" : ObjectId("63df57a14938dad7f28ec679"),
+    "nombreeventopro" : "sala5",
+    "informacion" : "sala5",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df57a14938dad7f28ec679-859.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63df57a54938dad7f28ec67d"),
+    "nombreeventopro" : "sala5",
+    "informacion" : "sala5",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df57a54938dad7f28ec67d-594.png"
+}
+
+
+{
+    "_id" : ObjectId("63df57a94938dad7f28ec681"),
+    "nombreeventopro" : "sala5",
+    "informacion" : "sala5",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df57a94938dad7f28ec681-157.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63df57af4938dad7f28ec685"),
+    "nombreeventopro" : "sala5",
+    "informacion" : "sala5",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df57af4938dad7f28ec685-960.png"
+}
+
+
+{
+    "_id" : ObjectId("63df57b34938dad7f28ec689"),
+    "nombreeventopro" : "sala5",
+    "informacion" : "sala5",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df57b34938dad7f28ec689-455.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63df57b74938dad7f28ec68d"),
+    "nombreeventopro" : "sala5",
+    "informacion" : "sala5",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df57b74938dad7f28ec68d-878.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63df58694938dad7f28ec6bd"),
+    "nombreeventopro" : "sala6",
+    "informacion" : "sala6",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df58694938dad7f28ec6bd-583.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63df58704938dad7f28ec6c1"),
+    "nombreeventopro" : "sala6",
+    "informacion" : "sala6",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df58704938dad7f28ec6c1-548.png"
+}
+
+
+{
+    "_id" : ObjectId("63df58764938dad7f28ec6c5"),
+    "nombreeventopro" : "sala6",
+    "informacion" : "sala6",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df58764938dad7f28ec6c5-362.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63df587c4938dad7f28ec6c9"),
+    "nombreeventopro" : "sala6",
+    "informacion" : "sala6",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df587c4938dad7f28ec6c9-3.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63df58824938dad7f28ec6cd"),
+    "nombreeventopro" : "sala6",
+    "informacion" : "sala6",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df58824938dad7f28ec6cd-956.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63df58874938dad7f28ec6d1"),
+    "nombreeventopro" : "sala6",
+    "informacion" : "sala6",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df58874938dad7f28ec6d1-649.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63df588d4938dad7f28ec6d5"),
+    "nombreeventopro" : "sala6",
+    "informacion" : "sala6",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df588d4938dad7f28ec6d5-372.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63df58924938dad7f28ec6d9"),
+    "nombreeventopro" : "sala6",
+    "informacion" : "sala6",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df58924938dad7f28ec6d9-450.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63df58984938dad7f28ec6dd"),
+    "nombreeventopro" : "sala6",
+    "informacion" : "sala6",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df58984938dad7f28ec6dd-951.png"
+}
+
+
+{
+    "_id" : ObjectId("63df59484938dad7f28ec74b"),
+    "nombreeventopro" : "sala7",
+    "informacion" : "sala7",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df59484938dad7f28ec74b-378.png"
+}
+
+
+{
+    "_id" : ObjectId("63df594e4938dad7f28ec74f"),
+    "nombreeventopro" : "sala7",
+    "informacion" : "sala7",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df594e4938dad7f28ec74f-358.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63df59544938dad7f28ec753"),
+    "nombreeventopro" : "sala7",
+    "informacion" : "sala7",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df59544938dad7f28ec753-882.png"
+}
+
+
+{
+    "_id" : ObjectId("63df59584938dad7f28ec757"),
+    "nombreeventopro" : "sala7",
+    "informacion" : "sala7",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df59584938dad7f28ec757-652.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63df595d4938dad7f28ec75b"),
+    "nombreeventopro" : "sala7",
+    "informacion" : "sala7",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df595d4938dad7f28ec75b-864.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63df59624938dad7f28ec75f"),
+    "nombreeventopro" : "sala7",
+    "informacion" : "sala7",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df59624938dad7f28ec75f-777.png"
+}
+
+
+{
+    "_id" : ObjectId("63df59674938dad7f28ec763"),
+    "nombreeventopro" : "sala7",
+    "informacion" : "sala7",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df59674938dad7f28ec763-208.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63df596c4938dad7f28ec767"),
+    "nombreeventopro" : "sala7",
+    "informacion" : "sala7",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df596c4938dad7f28ec767-233.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63df59714938dad7f28ec76b"),
+    "nombreeventopro" : "sala7",
+    "informacion" : "sala7",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63df59714938dad7f28ec76b-907.png"
+}
+
+
+{
+    "_id" : ObjectId("63e06a72305d0fb1164f99a2"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "fecha" : ISODate("2023-07-20T15:12:00.000Z"),
+    "img" : "63e06a72305d0fb1164f99a2-837.jpg",
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("63e06add305d0fb1164f99b0"),
+    "nombreeventopro" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "fecha" : ISODate("2023-07-20T15:12:00.000Z"),
+    "img" : "63e06add305d0fb1164f99b0-773.jpg",
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("63e06b22305d0fb1164f99be"),
+    "nombreeventopro" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "fecha" : ISODate("2023-07-19T15:13:00.000Z"),
+    "img" : "63e06b22305d0fb1164f99be-888.jpg",
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("63e06b6e305d0fb1164f99cc"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "",
+    "fecha" : ISODate("2023-07-20T15:15:00.000Z"),
+    "role" : "",
+    "img" : "63e06b6e305d0fb1164f99cc-206.jpg",
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("63e06bcc305d0fb1164f99e0"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "",
+    "fecha" : ISODate("2023-07-05T15:16:00.000Z"),
+    "role" : "",
+    "img" : "63e06bcc305d0fb1164f99e0-527.jpg",
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("63e06c0c305d0fb1164f99ee"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "Título de la Noticia",
+    "fecha" : ISODate("2023-07-20T15:23:00.000Z"),
+    "img" : "63e06c0c305d0fb1164f99ee-758.jpg",
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("63e06c45305d0fb1164f99fc"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "Título de la Noticia",
+    "fecha" : ISODate("2023-07-20T15:23:00.000Z"),
+    "role" : "",
+    "img" : "63e06c45305d0fb1164f99fc-811.jpg",
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("63e06c80305d0fb1164f9a0a"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63e06c80305d0fb1164f9a0a-44.jpg",
+    "detalle" : "Título de la Noticia",
+    "fecha" : ISODate("2023-07-20T15:23:00.000Z"),
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("63e06cb9305d0fb1164f9a18"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "fecha" : ISODate("2023-07-20T15:12:00.000Z"),
+    "img" : "63e06cb9305d0fb1164f9a18-783.jpg",
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("63e06ce8305d0fb1164f9a28"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63e06ce8305d0fb1164f9a28-496.jpg",
+    "detalle" : "Título de la Noticia",
+    "fecha" : ISODate("2023-07-19T15:24:00.000Z"),
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("63ed43e9630671a9cf2e5cc9"),
+    "nombreeventopro" : "24 de Julio",
+    "informacion" : "Salen desde la Habana todos los asaltantes en 16 autos directamente a Bayamo y Santiago de Cuba.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("63ed44e2630671a9cf2e5d0d"),
+    "nombreeventopro" : "26 de Julio",
+    "informacion" : "A las 3:00 am de ese d?a 135 combatientes, vestidos con uniformes del ej?rcito y dirijidos por Fidel, precisaban el ataque.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("63ed4542630671a9cf2e5d11"),
+    "nombreeventopro" : "26 de Julio",
+    "informacion" : "A las 4:00 am 131 revolucionarios concentrados en la Granjita Siboney, se encontraban a minutos del objetivo que deb?an atacar.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("63ed45a1630671a9cf2e5d19"),
+    "nombreeventopro" : "26 de Julio",
+    "informacion" : "24 de Julio Salen desde la Habana todos los asaltantes en 16 autos directamente a Bayamo y Santiago de Cuba. 26 de Julio A las 3:00 am de ese d?a 135 combatientes, vestidos con uniformes del ej?rcito y dirijidos por Fidel, precisaban el ataque. 26 de Julio A las 4:00 am 131 revolucionarios concentrados en la Granjita Siboney, se encontraban a minutos del objetivo que deb?an atacar. 26 de Julio Cuando todos estuvieron listos, se le di? lectura al \"Manifiesto del Moncada\" redactado por el joven poeta Ra?l G?mez Garc?a bajo la orientaci?n de Fidel. \"Ya estamos en combate\"",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "",
+    "fecha" : null,
+    "role" : ""
+}
+
+
+{
+    "_id" : ObjectId("63ed4609630671a9cf2e5d23"),
+    "nombreeventopro" : "26 de Julio",
+    "informacion" : "A las 5:00 am parte de la Granja la caravana de autos que toma por la carretera Siboney.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("63ed4654630671a9cf2e5d27"),
+    "nombreeventopro" : "26 de Julio",
+    "informacion" : "A las 5:15 am se efectuar?an las citas sincr?nicas en los cuarteles de Bayamo y Moncada en Santiago de Cuba. Comienza el ataque.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("63ed4695630671a9cf2e5d2b"),
+    "nombreeventopro" : "26 de Julio",
+    "informacion" : "A las 5:15 am llega al Hospital Saturnino Lora el grupo comandado por Abel Santamar?a y al Palacio de Justicia llega el grupo dirigido por Ra?l Castro, minutos m?s tarde los grupos dirijidos por Abel y Ra?l cumplieron su objetivo: la toma del Hospital y la Audiencia.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("63ed46ab630671a9cf2e5d2f"),
+    "nombreeventopro" : "26 de Julio",
+    "informacion" : "El grupo principal, dirigido por Fidel, lleg? seg?n lo previsto hasta una de las postas, la No. 3, la desarm? y traspas? la garita, pero una patrulla de recorrido y un sargento que apareci?n de improvisto provocaron un tiroteo que alert? a la tropa. El factor sorpresa no se hab?a logrado, la luch? se prolong? en un combate de posiciones.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("63ed46d2630671a9cf2e5d33"),
+    "nombreeventopro" : "26 de Julio",
+    "informacion" : "A las 8:20 a, los asaltantes se encontraban en total desventaja frente a un enemigo superior en armas y hombres, atrincherado dentro de aquella fortaleza. Comprendiendo que continuar la lucha en esas condiciones era un suicidio colectivo, Fidel orden? la retirada.  Al mismo tiempo que esto ocurr?a en Santiago, 28 revolucionarios asaltaban al cuartel de Bayamo, acci?n que tambi?n fracas?.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("63f3cbc9aea0db187c3c3e07"),
+    "nombreeventopro" : "1.AG?ERO GUEDES, Pablo",
+    "informacion" : "Aprendiz de alba?il. Nace en Caibari?n, Villa Clara, el 9 de agosto de 1935. Combatiente del asalto al cuartel Carlos Manuel de C?spedes, en Bayamo. Muere asesinado en la finca Cejas de Limones, Bayamo, el 27 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f3cbc9aea0db187c3c3e07-786.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f3d9587a969f7291b791e0"),
+    "nombreeventopro" : "2. AGUIAR FERN?NDEZ, Ra?l de",
+    "informacion" : "Estudiante de la Escuela Anexa a la Normal para Maestros de La Habana. Nace en Puentes Grandes, Ciudad Habana, el 19 de septiembre de 1922. Combatiente del asalto al cuartel Moncada. Posteriormente a los hechos es detenido en Alto Cedro; luego trasladado a Palma Soriano y de ah? asesinado y arrojado a un pozo en Barrancas, cerca del r?o Cauto. Su cad?ver nunca apareci?.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f3d9587a969f7291b791e0-933.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f3da807a969f7291b7922e"),
+    "nombreeventopro" : "3. ALEM?N RODR?GUEZ, Reemberto Abad.",
+    "informacion" : "Obrero de la construcci?n. Nace en Guayos, Sancti Sp?ritus, el 1ro. de septiembre de 1928. Combatiente del asalto al cuartel Moncada. Es asesinado el 29 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f3da807a969f7291b7922e-117.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f4d719598e9eac5f123774"),
+    "nombreeventopro" : "4.?LVAREZ ?LVAREZ, Gerardo Antonio",
+    "informacion" : "Trabajador agr?cola y empleado. Naci? en la finca Santa Leonila, en San Jos? de los Ramos, Matanzas, el 12 de agosto de 1925. Asaltante al cuartel Moncada (toma del hospital civil Saturnino Lora). Es asesinado en Santiago de Cuba, el 26 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f4d719598e9eac5f123774-166.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f4d80c598e9eac5f1237be"),
+    "nombreeventopro" : "5.?LVAREZ BRETO, Tom?s",
+    "informacion" : "Panadero, dulcero, alba?il. Nace en Artemisa, La Habana, el 28 de marzo de 1928. Asaltante al Moncada (toma del hospital civil Saturnino Lora). Es asesinado en Santiago de Cuba, el 26 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f4d80c598e9eac5f1237be-565.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f4d8a0598e9eac5f1237ca"),
+    "nombreeventopro" : "6.AMEIJEIRAS DELGADO, Juan Manuel.",
+    "informacion" : "Chofer de alquiler. Nace en Chaparra, Puerto Padre, Las Tunas, el 23 de octubre de 1932. Asaltante al Moncada (toma del hospital civil Saturnino Lora). Es asesinado en Santiago de Cuba, el 26 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f4d8a0598e9eac5f1237ca-733.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f4d909598e9eac5f1237d2"),
+    "nombreeventopro" : "7.BAR?N MART?NEZ, Gilberto Eugenio.",
+    "informacion" : "Zapatero. Nace en el Reparto Carlos ?lvarez, Ciudad de Camag?ey, el 4 de enero de 1931. En la Granjita Siboney, Santiago de Cuba, desiste de participar en las acciones. Despu?s de los hechos es asesinado mientras trataba de burlar el cerco. Su cad?ver apareci? en la carretera de Bayamo a Manzanillo, el 26 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f4d909598e9eac5f1237d2-793.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f4dbf5598e9eac5f123824"),
+    "nombreeventopro" : "8.BETANCOURT FLORES, Antonio.",
+    "informacion" : "Estibador, carnicero. Nace en la finca Santa Rosa, Artemisa, La Habana, el 13 de junio de 1931. Asaltante al Moncada (toma del hospital civil Saturnino Lora). Es asesinado en Santiago de Cuba el 26 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f4dbf5598e9eac5f123824-461.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f4dc7f598e9eac5f12382e"),
+    "nombreeventopro" : "9.BETANCOURT RODR?GUEZ, Flores",
+    "informacion" : "Picapedrero. Nace en la finca Santa Rosa, Artemisa, La Habana, el 5 de octubre de 1929. Asaltante al Moncada (Posta No. 3). Muere en la acci?n en Santiago de Cuba el 26 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f4dc7f598e9eac5f12382e-249.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f4ee61890193beb3a5d38d"),
+    "nombreeventopro" : "10.CAMEJO VALD?S, Hugo",
+    "informacion" : "Carretillero. Naci? en Caimito del Guayabal, La Habana, el 7 de mayo de 1918. Asaltante al cuartel Carlos Manuel de C?spedes. Pudo escapar, pero identificado en uni?n de dos compa?eros, Fue ahorcado en el Km. 37 de la carretera de Manzanillo a Bayamo y su cad?ver abandonado en Veguitas, Bayamo, el 30 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f4ee61890193beb3a5d38d-736.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f4eeba890193beb3a5d399"),
+    "nombreeventopro" : "11.CAREAGA MEDINA, Gregorio.",
+    "informacion" : "Vendedor ambulante, cocinero, administrador. Naci? en Artemisa, La Habana, el 29 de septiembre de 1923. Asaltante al Moncada (campamento). Es asesinado en Santiago de Cuba, el 26 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f4eeba890193beb3a5d399-322.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f4ef8f890193beb3a5d3a3"),
+    "nombreeventopro" : "12.CARTAS RODR?GUEZ, Pablo",
+    "informacion" : "Obrero gastron?mico. Nace en Ciudad de La Habana, el 17 de mayo de 1931. Asaltante al Moncada (toma del hospital civil Saturnino Lora). Posteriormente es asesinado el 26 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f4ef8f890193beb3a5d3a3-84.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f4f277890193beb3a5d3f5"),
+    "nombreeventopro" : "13.CORCHO CINTA, Alfredo.",
+    "informacion" : "Trabajador de lecher?a y cantante ocasional de puntos guajiros. Nace en la finca El Carmelo, Caimito del Guayabal, La Habana, el 25 de octubre de 1928. Asaltante al Moncada (campamento). Posteriormente a la acci?n fue asesinado, en Santiago de Cuba, el 26 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f4f277890193beb3a5d3f5-766.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f4f36e890193beb3a5d3fd"),
+    "nombreeventopro" : "14.\tCORCHO L?PEZ, Rigoberto.- ",
+    "informacion" : "Empleado del sector el?ctrico. Nace en el Central Pilar, Artemisa, La Habana, el 21 de diciembre de 1931. Asaltante al Moncada (campamento). Es asesinado en Santiago de Cuba el 26 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f4f36e890193beb3a5d3fd-695.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f4f3f7890193beb3a5d405"),
+    "nombreeventopro" : "15.\tC?RDOVA CARD?N, Giraldo.",
+    "informacion" : "Boxeador amateur. Nace en Ciudad de La Habana, el 5 de diciembre de 1930. Asaltante al Moncada (campamento). Es asesinado en Santiago de Cuba, el 26 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f4f3f7890193beb3a5d405-257.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f4f46e890193beb3a5d40f"),
+    "nombreeventopro" : "16.COSTA VEL?ZQUEZ, Jos? Francisco.",
+    "informacion" : "Ayudante de chofer. Nace en Bah?a Honda, Pinar del R?o, el 7 de septiembre de 1924. Asaltante al Moncada (toma al hospital civil Saturnino Lora). Es asesinado en Santiago de Cuba, el 26 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f4f46e890193beb3a5d40f-550.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f4f540890193beb3a5d417"),
+    "nombreeventopro" : "17.CHENARD PI?A, Fernando",
+    "informacion" : "Fot?grafo. Nace en Marianao, Ciudad de La Habana, el 4 de febrero de 1919. Asaltante al Moncada (campamento). Es asesinado en Santiago de Cuba, el 26 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f4f540890193beb3a5d417-942.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f4f5e7890193beb3a5d41f"),
+    "nombreeventopro" : "18.DOM?NGUEZ D?AZ, Juan",
+    "informacion" : "Mimbrero. Nace en el Central Merceditas, Bah?a Honda, Pinar del R?o, el 8 de marzo de 1931. Asaltante al Moncada (toma del hospital civil Saturnino Lora). Es asesinado en Santiago de Cuba, el 26 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f4f5e7890193beb3a5d41f-970.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f4f68e890193beb3a5d427"),
+    "nombreeventopro" : "19.ESCALONA BEN?TEZ, V?ctor.",
+    "informacion" : "Zapatero. Nace en Manzanillo, el 15 de octubre de 1915. Estando en la Granjita Siboney, en Santiago de Cuba, desiste combatir. Posteriormente a la acci?n es asesinado junto a Gilberto Var?n Mart?nez. Su cad?ver apareci? en la carretera Bayamo ? Manzanillo, el 27 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f4f68e890193beb3a5d427-818.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f4f704890193beb3a5d42f"),
+    "nombreeventopro" : "20.FLEITAS L?PEZ, Gildo Miguel",
+    "informacion" : "Profesor. Nace en El Cano, Marianao, La Habana, el 19 de mayo de 1919. Asaltante al Moncada (campamento). Perteneci? al grupo de dirigentes. Muere en el combate, en Santiago de Cuba, el 26 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f4f704890193beb3a5d42f-329.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f4f785890193beb3a5d439"),
+    "nombreeventopro" : "21.FREYRE TORRES, Rafael",
+    "informacion" : "Alba?il. Nace en Central Santa Luc?a, Gibara, Holgu?n, el 25 de febrero de 1932. Asaltante al cuartel Carlos Manuel de C?spedes, en Bayamo. Es asesinado en Bayamo el 26 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f4f785890193beb3a5d439-291.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f4f9d9890193beb3a5d441"),
+    "nombreeventopro" : "22.GARC?A ESPINOSA, Jacinto",
+    "informacion" : "Bracero de muelles. Nace en el Cerro, Ciudad de La Habana, el 29 de diciembre de 1924. Asaltante al Moncada (campamento). Posteriormente a la acci?n logra ocultarse y m?s tarde es hecho prisionero. Es asesinado en Santiago de Cuba, el 26 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f4f9d9890193beb3a5d441-47.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f4fc98890193beb3a5d495"),
+    "nombreeventopro" : "23.G?MEZ GARC?A, Ra?l.",
+    "informacion" : "Profesor. Nace en Ciudad de La Habana el 14 de diciembre de 1928. Autor del Manifiesto del Moncada y del poema Ya estamos en combate. Asaltante al Mocada (toma del hospital civil Saturnino Lora). Es asesinado en Santiago de Cuba el 26 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f4fc98890193beb3a5d495-701.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f4fd7e890193beb3a5d49d"),
+    "nombreeventopro" : "24.\tG?MEZ REYES, Manuel",
+    "informacion" : "Auxiliar de cocina. Nace en San Jos? de las Lajas, La Habana, el 11 de agosto de 1911. Asaltante al Moncada (campamento). Es asesinado en Santiago de Cuba el 26 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f4fd7e890193beb3a5d49d-704.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f4fdfd890193beb3a5d4a5"),
+    "nombreeventopro" : "25.\tG?MEZ REYES, Virginio",
+    "informacion" : "Cocinero. Nace en San Jos? de las Lajas, La Habana, el 19 de mayo de 1913. Muere asesinado en Bayamo el 26 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f4fdfd890193beb3a5d4a5-34.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f4fe61890193beb3a5d4af"),
+    "nombreeventopro" : "26.\tGONZ?LEZ CAMEJO, Luciano.",
+    "informacion" : "Operador de centr?fugas. Nace en Caimito del Guayabal, La Habana, el 18 de diciembre de 1913. Asaltante al cuartel Carlos Manuel de C?spedes, en Bayamo. Es asesinado en Bayamo el 26 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f4fe61890193beb3a5d4af-416.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f4ff0e890193beb3a5d4b9"),
+    "nombreeventopro" : "27.\tGRANADOS LARA, Guillermo",
+    "informacion" : "Dependiente de comercio, vendedor por cuenta propia. Nace en Pijirigua, Artemisa, La Habana, el 23 de octubre de 1923. Asaltante al Moncada (campamento). Es asesinado en Santiago de Cuba el 26 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f4ff0e890193beb3a5d4b9-466.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f4ff79890193beb3a5d4c1"),
+    "nombreeventopro" : "28.GUERRA D?AZ, ?ngelo de la Guardia",
+    "informacion" : "Chapistero, jardinero, vendedor de billetes. Nace en Bauta, La Habana, el 31 de marzo de 1931. Asaltante al cuartel Carlos Manuel de C?spedes, en Bayamo. Es asesinado en Bayamo el 26 de julio de 1953. ",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f4ff79890193beb3a5d4c1-784.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f4ffff890193beb3a5d4c9"),
+    "nombreeventopro" : "29.GUITART ROSELL, Renato Miguel",
+    "informacion" : "Comisionista de barcos. Nace en Rent?, Santiago de Cuba, el 2 de noviembre de 1930. Trabaja con Abel en el alquiler de los locales donde permanecer?an los combatientes antes de la acci?n y confeccion? el mapa del Moncada. Asaltante al cuartel Moncada (toma de la Posta No. 3). Muere en el combate, Santiago de Cuba, el 26 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f4ffff890193beb3a5d4c9-297.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f6252ca95cbab601910b21"),
+    "nombreeventopro" : "30.HERN?NDEZ ARROYO, L?zaro",
+    "informacion" : "Obrero de la construcci?n. Naci? en el Reparto Oriente, Pinar del R?o, el 17 de diciembre de 1931. Asaltante al cuartel Carlos Manuel de C?spedes, en Bayamo. Es asesinado en Bayamo el 26 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f6252ca95cbab601910b21-96.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f6258ca95cbab601910b2d"),
+    "nombreeventopro" : "31.HERN?NDEZ CRUZ, Emilio",
+    "informacion" : "Carpintero. Nace en Artemisa, La Habana, el 28 de mayo de 1932. Asaltante al Moncada (campamento). Es detenido y llevado a Siboney. Es asesinado en Santiago de Cuba, el 26 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f6258ca95cbab601910b2d-409.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f625fba95cbab601910b37"),
+    "nombreeventopro" : "32.ISLA P?REZ, Manuel Enrique",
+    "informacion" : "Obrero agr?cola. Nace en Los Palos, La Habana, el 15 de julio de 1933. Asaltante al Moncada (campamento). Es asesinado en Santiago de Cuba el 26 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f625fba95cbab601910b37-254.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f626e2a95cbab601910b41"),
+    "nombreeventopro" : "33.LABRADOR D?AZ, Jos? Antonio.",
+    "informacion" : "Trabajador agr?cola. Nace en San Jos?, Vi?ales, Pinar del R?o, el 22 de septiembre de 1926. Asaltante al Mocada (toma del hospital civil Saturnino Lora). Es asesinado en Santiago de Cuba el 26 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f626e2a95cbab601910b41-622.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f627aba95cbab601910b4b"),
+    "nombreeventopro" : "34.LUIS SANTA COLOMA, Reinaldo Boris.",
+    "informacion" : "Contador. Nace en San Nicol?s de Bari, La Habana, el 9 de diciembre de 1928. Asaltante al Moncada (campamento). Es asesinado en Santiago de Cuba el 26 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f627aba95cbab601910b4b-773.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f629b8a95cbab601910b55"),
+    "nombreeventopro" : "35.MADERA FERN?NDEZ, Jos? de Jes?s.",
+    "informacion" : "Obrero fabril. Nace en Ciudad de La Habana, el 15 de octubre de 1934. Asaltante al Moncada (campamento). Es asesinado en Santiago de Cuba el 26 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f629b8a95cbab601910b55-458.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f62aada95cbab601910b61"),
+    "nombreeventopro" : "36.MART? RODR?GUEZ, Marcos",
+    "informacion" : "Obrero agr?cola. Nace en el barrio Mojanga, Artemisa, La Habana, el 25 de abril de 1934. Asaltante al Moncada (campamento). Posteriormente a los hechos es detenido y muerto a balazos mientras era conducido en compa??a de Ciro Redondo Garc?a. Es asesinado en Santiago de Cuba el 30 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f62aada95cbab601910b61-175.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f62d35a95cbab601910b6b"),
+    "nombreeventopro" : "37.MART?NEZ ARAR?S, Mario.",
+    "informacion" : "Obrero fabril. Nace en Col?n, Matanzas el 17 de agosto de 1924. Asaltante al cuartel Carlos Manuel de C?spedes, en Bayamo. Posteriormente a la acci?n, su cad?ver apareci? en la finca Ceja de Limones, Bayamo. Es asesinado en Bayamo el 26 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f62d35a95cbab601910b6b-196.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f65d43b88de4341c7c73ba"),
+    "nombreeventopro" : "38.MARRERO AIZPUR?A, Pedro.",
+    "informacion" : "Obrero cervecero. Nace en Puentes Grandes, Marianao, La Habana, el 23 de octubre de 1926. Asaltante al Moncada (toma de la Posta No.3). Muere en el combate, en Santiago de Cuba, el 26 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f65d43b88de4341c7c73ba-945.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f65ddeb88de4341c7c73c2"),
+    "nombreeventopro" : "39.MATHEU ORIHUELA, Horacio.",
+    "informacion" : "Masillero. Nace en Torrientes, Pedro Betancourt, Matanzas, el 3 de enero de 1929. Asaltante al Mocada (toma del hospital civil Saturnino Lora). Es asesinado en Santiago de Cuba el 26 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f65ddeb88de4341c7c73c2-942.png"
+}
+
+
+{
+    "_id" : ObjectId("63f66031b88de4341c7c741a"),
+    "nombreeventopro" : "40.MATHEU ORIHUELA, Jos? Wilfredo.",
+    "informacion" : "Masillero. Nace en Torrientes, Pedro Betancourt, Matanzas, el 20 de octubre de 1927. Asaltante al Mocada (toma del hospital civil Saturnino Lora). Es asesinado en Santiago de Cuba el 26 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f66031b88de4341c7c741a-334.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f6609fb88de4341c7c7424"),
+    "nombreeventopro" : "41.MEDEROS RODR?GUEZ, Roberto",
+    "informacion" : "Empleado de comercio. Nace en Sagua la Grande, Villa Clara, el 21 de febrero de 1929. Asaltante al Mocada (toma del hospital civil Saturnino Lora). Es asesinado en Santiago de Cuba el 26 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f6609fb88de4341c7c7424-66.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f66105b88de4341c7c742c"),
+    "nombreeventopro" : "42.M?NDEZ CABEZ?N, Ram?n Ricardo.",
+    "informacion" : "Viajante de Comercio. Nace en Ciudad de La Habana, el 9 de junio de 1929. Asaltante al Mocada (toma del hospital civil Saturnino Lora). Es asesinado en Santiago de Cuba el 26 de julio de 1953. Sus restos aparecieron en El Caney, Santiago.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f66105b88de4341c7c742c-313.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f6616db88de4341c7c7434"),
+    "nombreeventopro" : "43.MU?OZ MONROY, Mario.",
+    "informacion" : "M?dico. Nace en Col?n, Matanzas, el 26 de julio de 1912. Asaltante al Moncada (toma del hospital civil Saturnino Lora). Pertenece al grupo dirigente. Es asesinado en Santiago de Cuba el 26 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f6616db88de4341c7c7434-825.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f661cbb88de4341c7c743c"),
+    "nombreeventopro" : "44.NOA GIL, Carmelo.-",
+    "informacion" : "Traseguero de leche. Nace en Capellan?as, Artemisa, La Habana, el 16 de julio de 1926. Asaltante al Mocada (toma de la Posta No. 3). Muere en combate en Santiago de Cuba, el 26 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f661cbb88de4341c7c743c-665.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f66219b88de4341c7c7444"),
+    "nombreeventopro" : "45.ORAMAS ALFONSO, Miguel ?ngel.",
+    "informacion" : "Empleado y fot?grafo. Nace en Ciudad de La Habana, el 16 de junio de 1932. Asaltante al Moncada (campamento). Es asesinado en Santiago de Cuba el 26 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f66219b88de4341c7c7444-982.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f66284b88de4341c7c744e"),
+    "nombreeventopro" : "46.ORTEGA LORA, Oscar Alberto",
+    "informacion" : "Dependiente de comercio. Nace en Palma Soriano, Santiago de Cuba. Asaltante al Moncada (campamento). Es asesinado en Santiago de Cuba el 26 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f66284b88de4341c7c744e-534.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f662f9b88de4341c7c7456"),
+    "nombreeventopro" : "47.REYES CAIRO, Julio M?ximo",
+    "informacion" : "Cajero de banco. Nace en Jag?ey, Matanzas, el 17 de mayo de 1930. Asaltante al Mocada (toma del hospital civil Saturnino Lora). Es asesinado en Santiago de Cuba el 26 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f662f9b88de4341c7c7456-462.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f66354b88de4341c7c745e"),
+    "nombreeventopro" : "48.RICONDO FERN?NDEZ, Ismael.",
+    "informacion" : "Obrero agr?cola. Nace en la finca Tentativa, barrio Virtudes, Artemisa, el 17 de junio de 1930. Asaltante al Moncada (campamento). Es asesinado en Santiago de Cuba el 26 de julio de 1953. Su cad?ver no apareci?.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f66354b88de4341c7c745e-508.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f6639fb88de4341c7c7466"),
+    "nombreeventopro" : "49.RIVERO VASALLO, F?lix.",
+    "informacion" : "Gastron?mico, obrero fabril y de la construcci?n. Nace en Bolondr?n, Matanzas, el 21 de febrero de 1927. Asaltante al Mocada (toma del hospital civil Saturnino Lora). Es asesinado en Santiago de Cuba el 26 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f6639fb88de4341c7c7466-967.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f6640cb88de4341c7c746e"),
+    "nombreeventopro" : "50.ROJO P?REZ, Asunci?n Manuel Mar?a.",
+    "informacion" : "Obrero agr?cola. Nace en Nueva Paz, La Habana, el 15 de agosto de 1903. Asaltante al Moncada (campamento). Es asesinado en Santiago de Cuba el 26 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f6640cb88de4341c7c746e-690.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f66464b88de4341c7c7478"),
+    "nombreeventopro" : "51.SA?Z S?NCHEZ, Manuel.",
+    "informacion" : "Carpintero. Nace en Ciudad de La Habana, el 30 de octubre de 1934. Asaltante al Mocada (toma del hospital civil Saturnino Lora). Es asesinado en Santiago de Cuba el 26 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f66464b88de4341c7c7478-815.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f664aeb88de4341c7c7480"),
+    "nombreeventopro" : "52.SAN ROM?N DE LAS LLANAS, Rolando",
+    "informacion" : "Vendedor ambulante. Nace en Pocito, Marianao, Ciudad de La Habana, el 1 de junio de 1929. Asaltante al cuartel Carlos Manuel de C?spedes, en Bayamo. Su cad?ver nunca apareci?. Muere en Bayamo el 26 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f664aeb88de4341c7c7480-395.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f664f7b88de4341c7c7488"),
+    "nombreeventopro" : "53.SANTAMAR?A CUADRADO, Abel.",
+    "informacion" : "Contador. Nace en Encrucijada, Villa Clara, el 20 de octubre de 1927. Fue el segundo jefe del asalto al cuartel Moncada. Dirigi? la toma del hospital civil Saturnino Lora. Es asesinado en Santiago de Cuba el 26 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f664f7b88de4341c7c7488-239.png"
+}
+
+
+{
+    "_id" : ObjectId("63f6656eb88de4341c7c7490"),
+    "nombreeventopro" : "54.SOCARR?S MART?NEZ, Osvaldo.",
+    "informacion" : "Parqueador de autos, aprendiz de barbero. Nace en Villa Clara, el 27 de noviembre de 1918. Asaltante al Mocada (toma del hospital civil Saturnino Lora). Es asesinado en Santiago de Cuba el 26 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f6656eb88de4341c7c7490-434.png"
+}
+
+
+{
+    "_id" : ObjectId("63f665e1b88de4341c7c7498"),
+    "nombreeventopro" : "55.SOSA GONZ?LEZ, Elpidio Casimiro",
+    "informacion" : "Viajante de comercio. Nace en Sagua la Grande, Villa Clara, el 4 de marzo de 1929. Asaltante al Moncada (campamento). Es asesinado en Santiago de Cuba el 26 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f665e1b88de4341c7c7498-843.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f66638b88de4341c7c74a2"),
+    "nombreeventopro" : "56.TASENDE DE LAS MU?ECAS, Jos? Luis.",
+    "informacion" : "Mec?nico. Nace en Manzanillo, Granma, el 15 de enero de 1925. Asaltante al Moncada (toma de la Posta No. 3). Es herido durante el combate. Posterior a la acci?n, es prisionero. Es asesinado en Santiago de Cuba el 26 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f66638b88de4341c7c74a2-341.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f6669ab88de4341c7c74aa"),
+    "nombreeventopro" : "57.TESTA ZARAGOZA, Jos?.",
+    "informacion" : "Carpintero, florero. Nace en Marianao, Ciudad de La Habana, el 15 de enero de 1922. Asaltante al cuartel Carlos Manuel de C?spedes, en Bayamo. Es asesinado en Bayamo el 26 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f6669ab88de4341c7c74aa-959.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f666e7b88de4341c7c74b2"),
+    "nombreeventopro" : "58.TRIGO L?PEZ, Julio.",
+    "informacion" : "Trabajador de la medicina. Estudiante. Nace en San Miguel del Padr?n, La Habana, el 27 de marzo de 1925. Participa en el asalto con el grupo que toma el hospital civil Saturnino Lora. Posterior a los hechos, es prisionero. Es asesinado en Santiago de Cuba el 26 de julio de 1953.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f666e7b88de4341c7c74b2-519.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f66757b88de4341c7c74ba"),
+    "nombreeventopro" : "59.VALD?S FUENTES, Andr?s.",
+    "informacion" : "Panadero. Nace en la Ciudad de Pinar del R?o, el 24 de febrero de 1929. Asaltante al Moncada (campamento). Despu?s de la acci?n, logra evadir el cerco. M?s tarde es apresado y asesinado. Su cad?ver fue arrojado a un pozo ciego en el camino de Alto Cedro, Palma Soriano, Santiago de Cuba.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f66757b88de4341c7c74ba-659.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f667c2b88de4341c7c74c2"),
+    "nombreeventopro" : "60.VALLE L?PEZ, Armando.",
+    "informacion" : "Taloista en muebles. Nace en el Vedado, Ciudad de La Habana, el 27 de octubre de 1929. Asaltante al Moncada (campamento). Posterior a la acci?n, logra escapar. En viaje hacia La Habana es capturado en Alto Cedro, Holgu?n y es asesinado. Sus restos nunca aparecieron.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f667c2b88de4341c7c74c2-716.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f6682fb88de4341c7c74cc"),
+    "nombreeventopro" : "61.VELIZ HERN?NDEZ, Pedro.",
+    "informacion" : "Alba?il. Nace en Pocitos, Marianao, Ciudad de La Habana, el 13 de mayo de 1931. Asaltante al cuartel Carlos Manuel de C?spedes de Bayamo. Logra escapar y es detenido cuando viaja hacia La Habana. Es asesinado en Veguitas, Manzanillo, el 29 de julio de 1953. Sus restos fueron recuperados por un campesino de la zona de Manzanillo.",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f6682fb88de4341c7c74cc-412.jpg"
+}
+
+
+{
+    "_id" : ObjectId("63f66c59b88de4341c7c74d6"),
+    "nombreeventopro" : "\t video1 Historia del hecho",
+    "informacion" : "\t video1 Historia del hecho",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f66c59b88de4341c7c74d6-722.mp4",
+    "detalle" : "\t video1 Historia del hecho",
+    "fecha" : ISODate("2023-02-22T00:00:00.000Z")
+}
+
+
+{
+    "_id" : ObjectId("63f6725fb88de4341c7c7624"),
+    "nombreeventopro" : "video2 Historia del hecho",
+    "informacion" : "video2 Historia del hecho",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f6725fb88de4341c7c7624-874.mp4",
+    "detalle" : "video2 Historia del hecho",
+    "fecha" : ISODate("2023-02-22T00:00:00.000Z"),
+    "role" : ""
+}
+
+
+{
+    "_id" : ObjectId("63f6729cb88de4341c7c7630"),
+    "nombreeventopro" : "video3 Historia del hecho",
+    "informacion" : "video3 Historia del hecho",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f6729cb88de4341c7c7630-243.mp4"
+}
+
+
+{
+    "_id" : ObjectId("63f672e6b88de4341c7c7638"),
+    "nombreeventopro" : "\t video4 Historia del hecho",
+    "informacion" : "\t video4 Historia del hecho",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f672e6b88de4341c7c7638-334.mp4",
+    "detalle" : "\t video4 Historia del hecho",
+    "fecha" : ISODate("2023-02-22T00:00:00.000Z"),
+    "role" : ""
+}
+
+
+{
+    "_id" : ObjectId("63f67322b88de4341c7c7642"),
+    "nombreeventopro" : "video5 Historia del hecho",
+    "informacion" : "video5 Historia del hecho",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "video5 Historia del hecho",
+    "fecha" : ISODate("2023-02-22T00:00:00.000Z"),
+    "role" : "",
+    "img" : "63f67322b88de4341c7c7642-800.mp4"
+}
+
+
+{
+    "_id" : ObjectId("63f67392b88de4341c7c7652"),
+    "nombreeventopro" : "video6 Historia del hecho",
+    "informacion" : "video6 Historia del hecho",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "video6 Historia del hecho",
+    "fecha" : ISODate("2023-02-22T00:00:00.000Z"),
+    "role" : "",
+    "img" : "63f67392b88de4341c7c7652-202.mp4"
+}
+
+
+{
+    "_id" : ObjectId("63f673deb88de4341c7c765e"),
+    "nombreeventopro" : "video7 Historia del hecho",
+    "informacion" : "video7 Historia del hecho",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "video7 Historia del hecho",
+    "fecha" : ISODate("2023-02-22T00:00:00.000Z"),
+    "role" : "",
+    "img" : "63f673deb88de4341c7c765e-567.mp4"
+}
+
+
+{
+    "_id" : ObjectId("63f6742ab88de4341c7c766a"),
+    "nombreeventopro" : "video8 Historia del hecho",
+    "informacion" : "video8 Historia del hecho",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63f6742ab88de4341c7c766a-0.mp4"
+}
+
+
+{
+    "_id" : ObjectId("63f67460b88de4341c7c7672"),
+    "nombreeventopro" : "video9 Historia del hecho",
+    "informacion" : "video9 Historia del hecho",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "video8 Historia del hecho",
+    "fecha" : ISODate("2023-02-22T00:00:00.000Z"),
+    "role" : "",
+    "img" : "63f67460b88de4341c7c7672-969.mp4"
+}
+
+
+{
+    "_id" : ObjectId("63f6749bb88de4341c7c7680"),
+    "nombreeventopro" : "video10 Historia del hecho",
+    "informacion" : "video10 Historia del hecho",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "video10 Historia del hecho",
+    "fecha" : ISODate("2023-02-22T00:00:00.000Z"),
+    "role" : "",
+    "img" : "63f6749bb88de4341c7c7680-937.mp4"
+}
+
+
+{
+    "_id" : ObjectId("63f67660b88de4341c7c76f8"),
+    "nombreeventopro" : "video11 Historia del hecho",
+    "informacion" : "\t video11 Historia del hecho",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "\t video11 Historia del hecho",
+    "fecha" : ISODate("2023-02-22T00:00:00.000Z"),
+    "img" : "63f67660b88de4341c7c76f8-653.mp4"
+}
+
+
+{
+    "_id" : ObjectId("642ef01fa163d6bdc58893f3"),
+    "nombreeventopro" : "Ametralladora pesada Browning BGM M-2HB",
+    "informacion" : "Ametralladora pesada Browning BGM M-2HB",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "642ef01fa163d6bdc58893f3-263.jpg",
+    "detalle" : "Ametralladora pesada Browning BGM M-2HB",
+    "fecha" : ISODate("2023-02-02T17:33:00.000Z"),
+    "role" : "SLIDER"
+}
+
+
+{
+    "_id" : ObjectId("643471516a6c09d64716a35b"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "Título de la Noticia",
+    "fecha" : ISODate("2023-07-20T15:25:00.000Z"),
+    "role" : "",
+    "img" : "643471516a6c09d64716a35b-1.jpg",
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("64358c08429977d7037f0aa7"),
+    "nombreeventopro" : "slider",
+    "informacion" : "slider",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "64358c08429977d7037f0aa7-450.jpg",
+    "detalle" : "slider",
+    "fecha" : null,
+    "role" : "SLIDER"
+}
+
+
+{
+    "_id" : ObjectId("64cd3d9e1c87b603c3c50b67"),
+    "nombreeventopro" : "Museo histórico 26 de Julio",
+    "informacion" : "Un sitio donde la historia................................. Completar con una frace alegórica",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "La institución fue fundada oficialmente el 26 de Julio de 1967 y se encuentra ubicada en uno de los pabellones de la Ciudad Escolar 26 de Julio, contiguo a la histórica posta 3, por donde un grupo de combatientes al mando del joven                             Fidel Castro Ruz, intentaron tomar la otrora fortaleza militar; convertida en Ciudad Escolar, el 28 de Enero de 1960, en ocasión del 107 Aniversario del Natalicio de nuestro Héroe Nacional José Martí. A través de 8 salas interactivas                             , diseñadas de forma didáctica , educativa y con el uso de las nuevas tecnologías , se aborda como temática fundamental los hechos ocurridos el 26 de Julio de 1953, la represión desatada contra los asaltantes y el asesinato                             de éstos; los métodos e instrumentos de torturas empleados; el proceso judicial conocido como Causa ·no.37/53; la prisión fecunda; el exilio; el desembarco de los expedicionarios del Yate Granma y la entrada de las fuerzas                             rebeldes al Moncada con el Triunfo de la Revolución. Se exponen pertenencias de los asaltantes a la fortaleza militar, uniformes ensangrentados, armas de fuego capturadas al ejército de Batista en diferentes acciones combativas,                             una réplica en miniatura del yate Granma, el camión en que fuera trasladado en calidad de prisionero el joven abogado Fidel Castro Ruz y una maqueta del cuartel Moncada, con las edificaciones aledañas donde se aprecian los                             lugares desde los cuales, los grupos participantes en la acción.",
+    "fecha" : ISODate("2023-08-04T18:10:00.000Z"),
+    "role" : "HISTORIA"
+}
+
+
+{
+    "_id" : ObjectId("64da6e905abafc75e84b225f"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "fecha" : ISODate("2023-07-20T15:12:00.000Z"),
+    "img" : "63e06a72305d0fb1164f99a2-837.jpg",
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("64da6e905abafc75e84b2262"),
+    "nombreeventopro" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "fecha" : ISODate("2023-07-20T15:12:00.000Z"),
+    "img" : "63e06add305d0fb1164f99b0-773.jpg",
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("64da6e905abafc75e84b2265"),
+    "nombreeventopro" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "fecha" : ISODate("2023-07-19T15:13:00.000Z"),
+    "img" : "63e06b22305d0fb1164f99be-888.jpg",
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("64da6e905abafc75e84b2268"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "",
+    "fecha" : ISODate("2023-07-20T15:15:00.000Z"),
+    "role" : "",
+    "img" : "63e06b6e305d0fb1164f99cc-206.jpg",
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("64da6e905abafc75e84b226b"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "",
+    "fecha" : ISODate("2023-07-05T15:16:00.000Z"),
+    "role" : "",
+    "img" : "63e06bcc305d0fb1164f99e0-527.jpg",
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("64da6e905abafc75e84b226e"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "Título de la Noticia",
+    "fecha" : ISODate("2023-07-20T15:23:00.000Z"),
+    "img" : "63e06c0c305d0fb1164f99ee-758.jpg",
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("64da6e905abafc75e84b2271"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "Título de la Noticia",
+    "fecha" : ISODate("2023-07-20T15:23:00.000Z"),
+    "role" : "",
+    "img" : "63e06c45305d0fb1164f99fc-811.jpg",
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("64da6e905abafc75e84b2274"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63e06c80305d0fb1164f9a0a-44.jpg",
+    "detalle" : "Título de la Noticia",
+    "fecha" : ISODate("2023-07-20T15:23:00.000Z"),
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("64da6e905abafc75e84b2277"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "fecha" : ISODate("2023-07-20T15:12:00.000Z"),
+    "img" : "63e06cb9305d0fb1164f9a18-783.jpg",
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("64da6e905abafc75e84b227a"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "64da6e905abafc75e84b227a-954.jpg",
+    "detalle" : "Título de la Noticia",
+    "fecha" : ISODate("2023-07-19T15:24:00.000Z"),
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("64da71895abafc75e84b2486"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "fecha" : ISODate("2023-07-20T15:12:00.000Z"),
+    "img" : "63e06a72305d0fb1164f99a2-837.jpg",
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("64da71895abafc75e84b2489"),
+    "nombreeventopro" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "fecha" : ISODate("2023-07-20T15:12:00.000Z"),
+    "img" : "63e06add305d0fb1164f99b0-773.jpg",
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("64da71895abafc75e84b248c"),
+    "nombreeventopro" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "fecha" : ISODate("2023-07-19T15:13:00.000Z"),
+    "img" : "63e06b22305d0fb1164f99be-888.jpg",
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("64da71895abafc75e84b248f"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "",
+    "fecha" : ISODate("2023-07-20T15:15:00.000Z"),
+    "role" : "",
+    "img" : "63e06b6e305d0fb1164f99cc-206.jpg",
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("64da71895abafc75e84b2492"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "",
+    "fecha" : ISODate("2023-07-05T15:16:00.000Z"),
+    "role" : "",
+    "img" : "63e06bcc305d0fb1164f99e0-527.jpg",
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("64da71895abafc75e84b2495"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "Título de la Noticia",
+    "fecha" : ISODate("2023-07-20T15:23:00.000Z"),
+    "img" : "63e06c0c305d0fb1164f99ee-758.jpg",
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("64da71895abafc75e84b2498"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "Título de la Noticia",
+    "fecha" : ISODate("2023-07-20T15:23:00.000Z"),
+    "role" : "",
+    "img" : "63e06c45305d0fb1164f99fc-811.jpg",
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("64da71895abafc75e84b249b"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63e06c80305d0fb1164f9a0a-44.jpg",
+    "detalle" : "Título de la Noticia",
+    "fecha" : ISODate("2023-07-20T15:23:00.000Z"),
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("64da71895abafc75e84b249e"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "fecha" : ISODate("2023-07-20T15:12:00.000Z"),
+    "img" : "63e06cb9305d0fb1164f9a18-783.jpg",
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("64da71895abafc75e84b24a1"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63e06ce8305d0fb1164f9a28-961.jpg",
+    "detalle" : "Título de la Noticia",
+    "fecha" : ISODate("2023-07-19T15:24:00.000Z"),
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("64da7bd55abafc75e84b2891"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "fecha" : ISODate("2023-07-20T15:12:00.000Z"),
+    "img" : "63e06a72305d0fb1164f99a2-837.jpg",
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("64da7bd55abafc75e84b2894"),
+    "nombreeventopro" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "fecha" : ISODate("2023-07-20T15:12:00.000Z"),
+    "img" : "63e06add305d0fb1164f99b0-773.jpg",
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("64da7bd55abafc75e84b2897"),
+    "nombreeventopro" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "fecha" : ISODate("2023-07-19T15:13:00.000Z"),
+    "img" : "63e06b22305d0fb1164f99be-888.jpg",
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("64da7bd55abafc75e84b289a"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "",
+    "fecha" : ISODate("2023-07-20T15:15:00.000Z"),
+    "role" : "",
+    "img" : "63e06b6e305d0fb1164f99cc-206.jpg",
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("64da7bd55abafc75e84b289d"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "",
+    "fecha" : ISODate("2023-07-05T15:16:00.000Z"),
+    "role" : "",
+    "img" : "63e06bcc305d0fb1164f99e0-527.jpg",
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("64da7bd55abafc75e84b28a0"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "Título de la Noticia",
+    "fecha" : ISODate("2023-07-20T15:23:00.000Z"),
+    "img" : "63e06c0c305d0fb1164f99ee-758.jpg",
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("64da7bd55abafc75e84b28a3"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "Título de la Noticia",
+    "fecha" : ISODate("2023-07-20T15:23:00.000Z"),
+    "role" : "",
+    "img" : "63e06c45305d0fb1164f99fc-811.jpg",
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("64da7bd55abafc75e84b28a6"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63e06c80305d0fb1164f9a0a-44.jpg",
+    "detalle" : "Título de la Noticia",
+    "fecha" : ISODate("2023-07-20T15:23:00.000Z"),
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("64da7bd55abafc75e84b28a9"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "fecha" : ISODate("2023-07-20T15:12:00.000Z"),
+    "img" : "63e06cb9305d0fb1164f9a18-783.jpg",
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("64da7bd55abafc75e84b28ac"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63e06ce8305d0fb1164f9a28-961.jpg",
+    "detalle" : "Título de la Noticia",
+    "fecha" : ISODate("2023-07-19T15:24:00.000Z"),
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("64da7c215abafc75e84b28da"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "fecha" : ISODate("2023-07-20T15:12:00.000Z"),
+    "img" : "63e06a72305d0fb1164f99a2-837.jpg",
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("64da7c215abafc75e84b28dd"),
+    "nombreeventopro" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "fecha" : ISODate("2023-07-20T15:12:00.000Z"),
+    "img" : "63e06add305d0fb1164f99b0-773.jpg",
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("64da7c215abafc75e84b28e0"),
+    "nombreeventopro" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "fecha" : ISODate("2023-07-19T15:13:00.000Z"),
+    "img" : "63e06b22305d0fb1164f99be-888.jpg",
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("64da7c215abafc75e84b28e3"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "",
+    "fecha" : ISODate("2023-07-20T15:15:00.000Z"),
+    "role" : "",
+    "img" : "63e06b6e305d0fb1164f99cc-206.jpg",
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("64da7c215abafc75e84b28e6"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "",
+    "fecha" : ISODate("2023-07-05T15:16:00.000Z"),
+    "role" : "",
+    "img" : "63e06bcc305d0fb1164f99e0-527.jpg",
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("64da7c215abafc75e84b28e9"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "Título de la Noticia",
+    "fecha" : ISODate("2023-07-20T15:23:00.000Z"),
+    "img" : "63e06c0c305d0fb1164f99ee-758.jpg",
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("64da7c215abafc75e84b28ec"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "Título de la Noticia",
+    "fecha" : ISODate("2023-07-20T15:23:00.000Z"),
+    "role" : "",
+    "img" : "63e06c45305d0fb1164f99fc-811.jpg",
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("64da7c215abafc75e84b28ef"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63e06c80305d0fb1164f9a0a-44.jpg",
+    "detalle" : "Título de la Noticia",
+    "fecha" : ISODate("2023-07-20T15:23:00.000Z"),
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("64da7c215abafc75e84b28f2"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "fecha" : ISODate("2023-07-20T15:12:00.000Z"),
+    "img" : "63e06cb9305d0fb1164f9a18-783.jpg",
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("64da7c215abafc75e84b28f5"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63e06ce8305d0fb1164f9a28-961.jpg",
+    "detalle" : "Título de la Noticia",
+    "fecha" : ISODate("2023-07-19T15:24:00.000Z"),
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("64da7c995abafc75e84b2923"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "fecha" : ISODate("2023-07-20T15:12:00.000Z"),
+    "img" : "63e06a72305d0fb1164f99a2-837.jpg",
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("64da7c995abafc75e84b2926"),
+    "nombreeventopro" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "fecha" : ISODate("2023-07-20T15:12:00.000Z"),
+    "img" : "63e06add305d0fb1164f99b0-773.jpg",
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("64da7c995abafc75e84b2929"),
+    "nombreeventopro" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "fecha" : ISODate("2023-07-19T15:13:00.000Z"),
+    "img" : "63e06b22305d0fb1164f99be-888.jpg",
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("64da7c995abafc75e84b292c"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "",
+    "fecha" : ISODate("2023-07-20T15:15:00.000Z"),
+    "role" : "",
+    "img" : "63e06b6e305d0fb1164f99cc-206.jpg",
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("64da7c995abafc75e84b292f"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "",
+    "fecha" : ISODate("2023-07-05T15:16:00.000Z"),
+    "role" : "",
+    "img" : "63e06bcc305d0fb1164f99e0-527.jpg",
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("64da7c995abafc75e84b2932"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "Título de la Noticia",
+    "fecha" : ISODate("2023-07-20T15:23:00.000Z"),
+    "img" : "63e06c0c305d0fb1164f99ee-758.jpg",
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("64da7c995abafc75e84b2935"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "detalle" : "Título de la Noticia",
+    "fecha" : ISODate("2023-07-20T15:23:00.000Z"),
+    "role" : "",
+    "img" : "63e06c45305d0fb1164f99fc-811.jpg",
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("64da7c995abafc75e84b2938"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63e06c80305d0fb1164f9a0a-44.jpg",
+    "detalle" : "Título de la Noticia",
+    "fecha" : ISODate("2023-07-20T15:23:00.000Z"),
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("64da7c995abafc75e84b293b"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "fecha" : ISODate("2023-07-20T15:12:00.000Z"),
+    "img" : "63e06cb9305d0fb1164f9a18-783.jpg",
+    "role" : "NOTICIA"
+}
+
+
+{
+    "_id" : ObjectId("64da7c995abafc75e84b293e"),
+    "nombreeventopro" : "Título de la Noticia",
+    "informacion" : "Título de la Noticia",
+    "usuario" : ObjectId("63c01c3a46ba4bc90575e523"),
+    "__v" : 0,
+    "img" : "63e06ce8305d0fb1164f9a28-961.jpg",
+    "detalle" : "Título de la Noticia",
+    "fecha" : ISODate("2023-07-19T15:24:00.000Z"),
+    "role" : "NOTICIA"
+}
